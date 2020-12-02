@@ -1,2 +1,7 @@
-/data
-/.history
+data
+.history
+.vscode
+model/GCN/data
+
+*.pth
+*.pkl

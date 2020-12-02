@@ -14,7 +14,10 @@ from sklearn.metrics import roc_auc_score
 from tqdm import tqdm
 from collections import OrderedDict
 import argparse
-from .resnet_model import resnet10
+# import sys
+# sys.path.append('../')
+# from .resnet_model import resnet10
+import resnet_model
 
 
 def create_dataset():
@@ -40,7 +43,7 @@ def create_dataset():
             print('fuck')
             print(item)
             quit()
-    train_sampler = Data.WeightedRandomSampler(weight, num_samples=len(weight) * 10, replacement=True)
+    train_sampler = Data.WeightedRandomSampler(weight, num_samples=len(weight), replacement=True)
     # train_sampler = Data.WeightedRandomSampler(weight, num_samples=len(weight) * 10, replacement=True)
     train_loader = Data.DataLoader(train_dataset, sampler=train_sampler, batch_size=256)
     val_sampler = Data.SequentialSampler(val_dataset)
@@ -87,9 +90,6 @@ def setup_seed(seed=0):
 #         return x
 
 
-
-
-
 def train(m, criterion, optimizer, train_loader):
     m.train()
     train_loader = tqdm(train_loader, dynamic_ncols=True)
@@ -123,8 +123,8 @@ def evaluate(m, val_loader):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Drug Molecular Toxicity Prediction Training')
-    parser.add_argument('--exp-id', default='default', type=str, help='Experiment ID')
-    parser.add_argument('--lr', default=1e-3, type=float, help='learning rate')
+    parser.add_argument('--exp_id', default='default', type=str, help='Experiment ID')
+    parser.add_argument('--lr', default=5e-3, type=float, help='learning rate')
     parser.add_argument('--seed', default=0, type=int, help='random seed')
     parser.add_argument('--epoch_num', default=3, type=int, help='number of training epoch')
     opt = parser.parse_args()
@@ -132,7 +132,10 @@ if __name__ == '__main__':
     if not os.path.exists(f'./exp/{opt.exp_id}'):
         os.makedirs(f'./exp/{opt.exp_id}')
     train_loader, val_loader = create_dataset()
-    m = resnet10()
+    m = resnet_model.resnet50()
+    # m = resnet_model.resnet34()
+    # m = resnet_model.resnet18()
+    # m = resnet_model.resnet10()
     m.to(torch.device("cuda"))
     m = torch.nn.DataParallel(m)
 
@@ -156,7 +159,7 @@ if __name__ == '__main__':
     for epoch in range(epoch_limit):
         if epoch in milestones:
             print('loading previous best model...')
-            state_dict = torch.load(f'./exp/{opt.exp_id}/resnet_best.pth')
+            state_dict = torch.load(f'./exp/{opt.exp_id}/{opt.exp_id}_best.pth')
             new_state_dict = OrderedDict()
             for k, v in state_dict.items():
                 k = 'module.' + k
@@ -173,8 +176,8 @@ if __name__ == '__main__':
         if auc_score >= best_auc_score:
             best_auc_score = auc_score
             print('Saving best model...')
-            torch.save(m.module.state_dict(), f'./exp/{opt.exp_id}/resnet_best.pth')
+            torch.save(m.module.state_dict(), f'./exp/{opt.exp_id}/{opt.exp_id}_best.pth')
         lr_scheduler.step()
         print(f'epoch {epoch}\'s auc score: {auc_score:.4f} | best auc score: {best_auc_score:.4f}')
 
-    torch.save(m.module.state_dict(), f'./exp/{opt.exp_id}/resnet_final.pth')        
+    torch.save(m.module.state_dict(), f'./exp/{opt.exp_id}/{opt.exp_id}_final.pth')        
