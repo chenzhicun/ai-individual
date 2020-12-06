@@ -19,7 +19,8 @@ def process_smile_file(filepath):
             if smile == '':
                 print('fuck')
                 continue
-            mol = read_smiles(smile)
+            mol = read_smiles(smile, explicit_hydrogen=True)
+            # mol = read_smiles(smile)
             if max_length < len(mol.nodes()):
                 max_length = len(mol.nodes())
             hcount_list = mol.nodes(data='hcount')

@@ -2,7 +2,7 @@ import pickle as pk
 import torch
 import torch.utils.data as Data
 from tqdm import tqdm
-from model import GCN
+from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer
 import numpy as np
 import argparse
 from collections import OrderedDict
@@ -13,6 +13,8 @@ args.add_argument('--lr', type=float, default=5e-5)
 args.add_argument('--embedding_dim', type=int, default=64)
 args.add_argument('--hidden1', type=int, default=32)
 args.add_argument('--hidden2', type=int, default=16)
+args.add_argument('--hidden3', type=int, default=8)
+args.add_argument('--hidden4', type=int, default=4)
 args.add_argument('--batch_size', type=int, default=256)
 args.add_argument('--seed', type=int, default=0)
 args.add_argument('--exp_id', default='default')
@@ -41,16 +43,18 @@ def create_dataloader():
     
 if __name__ == '__main__':
     # m = GCN(64 * 3, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
-    m = GCN(64 * 4, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN_4layer_relu(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN_5layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, opt.hidden4, 1, opt.droprate, opt.embedding_dim)
+    m = GCN_8layer()
     m.to(torch.device("cuda"))
-    m = torch.nn.DataParallel(m)
+    # m = torch.nn.DataParallel(m)
     saved_state_path = f'./exp/{opt.exp_id}/{opt.exp_id}_best_epoch{opt.epoch}.pth'
     state_dict = torch.load(saved_state_path)
     new_state_dict = OrderedDict()
     for k, v in state_dict.items():
         k = 'module.' + k
         new_state_dict[k] = v
-    m.load_state_dict(new_state_dict)
+    m.load_state_dict(state_dict)
 
     test_loader, name = create_dataloader()
     all_preds = []

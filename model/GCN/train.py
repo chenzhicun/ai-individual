@@ -10,7 +10,7 @@ import numpy as np
 import argparse
 import os
 import logging
-from model import GCN
+from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer
 
 
 args = argparse.ArgumentParser()
@@ -19,6 +19,8 @@ args.add_argument('--lr', type=float, default=5e-5)
 args.add_argument('--embedding_dim', type=int, default=64)
 args.add_argument('--hidden1', type=int, default=32)
 args.add_argument('--hidden2', type=int, default=16)
+args.add_argument('--hidden3', type=int, default=8)
+args.add_argument('--hidden4', type=int, default=4)
 args.add_argument('--batch_size', type=int, default=256)
 args.add_argument('--seed', type=int, default=0)
 args.add_argument('--exp_id', default='default')
@@ -142,7 +144,11 @@ if __name__ == '__main__':
     setup_seed(opt.seed)
     train_loader, val_loader = create_dataloader()
     # m = GCN(64 * 3, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
-    m = GCN(64 * 4, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN(64 * 4, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN_4layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN_4layer_relu(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
+    # m = GCN_5layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, opt.hidden4, 1, opt.droprate, opt.embedding_dim)
+    m = GCN_8layer()
     m.to(torch.device("cuda"))
     m = torch.nn.DataParallel(m)
 

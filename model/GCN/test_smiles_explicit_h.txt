@@ -1,0 +1,10 @@
+max_length: 227
+element:
+53
+{'Ni', 'V', 'Pb', 'Ti', 'C', 'Si', 'P', 'Yb', 'Na', 'Co', 'In', 'Se', 'Cu', 'Pt', 'Sr', 'Nd', 'Tl', 'Sb', 'Cl', 'Au', 'Ru', 'Bi', 'Dy', 'Ba', 'F', 'I', 'Eu', 'O', 'Cd', 'Hg', 'As', 'Ag', 'Fe', 'Mo', 'K', 'Li', 'N', 'Sn', 'Zr', 'Pd', 'Be', 'Ca', 'S', 'Mg', 'H', 'B', 'Al', 'Zn', 'Sc', 'Cr', 'Br', 'Mn', 'Ge'}
+charge:
+6
+{0, 1, 2, 3, -2, -1}
+aromatic:
+2
+{False, True}
