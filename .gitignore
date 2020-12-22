@@ -5,3 +5,6 @@ model/GCN/data
 
 *.pth
 *.pkl
+*.txt
+*.pyc
+*.log
