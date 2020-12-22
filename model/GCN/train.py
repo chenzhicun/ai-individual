@@ -10,7 +10,7 @@ import numpy as np
 import argparse
 import os
 import logging
-from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer
+from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer, ResGCN_8layer, ResGCN_5layer, GCN_18layer, ResGCN_18layer
 
 
 args = argparse.ArgumentParser()
@@ -148,7 +148,7 @@ if __name__ == '__main__':
     # m = GCN_4layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
     # m = GCN_4layer_relu(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
     # m = GCN_5layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, opt.hidden4, 1, opt.droprate, opt.embedding_dim)
-    m = GCN_8layer()
+    m = ResGCN_18layer()
     m.to(torch.device("cuda"))
     m = torch.nn.DataParallel(m)
 

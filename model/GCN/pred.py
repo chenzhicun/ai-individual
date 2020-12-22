@@ -2,7 +2,7 @@ import pickle as pk
 import torch
 import torch.utils.data as Data
 from tqdm import tqdm
-from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer
+from model import GCN, GCN_4layer, GCN_4layer_relu, GCN_5layer, GCN_8layer, ResGCN_8layer, ResGCN_5layer, GCN_18layer
 import numpy as np
 import argparse
 from collections import OrderedDict
@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # m = GCN(64 * 3, opt.hidden1, opt.hidden2, 1, opt.droprate, opt.embedding_dim)
     # m = GCN_4layer_relu(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, 1, opt.droprate, opt.embedding_dim)
     # m = GCN_5layer(64 * 4, opt.hidden1, opt.hidden2, opt.hidden3, opt.hidden4, 1, opt.droprate, opt.embedding_dim)
-    m = GCN_8layer()
+    m = GCN_18layer()
     m.to(torch.device("cuda"))
     # m = torch.nn.DataParallel(m)
     saved_state_path = f'./exp/{opt.exp_id}/{opt.exp_id}_best_epoch{opt.epoch}.pth'

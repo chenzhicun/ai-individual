@@ -1,0 +1,1611 @@
+############# Starting Epoch 0 | LR: 5e-05 #############
+Saving best model...
+epoch 0's auc score: 0.4989 | best auc score: 0.4989
+############# Starting Epoch 1 | LR: 5e-05 #############
+Saving best model...
+epoch 1's auc score: 0.5002 | best auc score: 0.5002
+############# Starting Epoch 2 | LR: 5e-05 #############
+epoch 2's auc score: 0.4991 | best auc score: 0.5002
+############# Starting Epoch 3 | LR: 5e-05 #############
+Saving best model...
+epoch 3's auc score: 0.5033 | best auc score: 0.5033
+############# Starting Epoch 4 | LR: 5e-05 #############
+Saving best model...
+epoch 4's auc score: 0.5033 | best auc score: 0.5033
+############# Starting Epoch 5 | LR: 5e-05 #############
+Saving best model...
+epoch 5's auc score: 0.5041 | best auc score: 0.5041
+############# Starting Epoch 6 | LR: 5e-05 #############
+Saving best model...
+epoch 6's auc score: 0.5047 | best auc score: 0.5047
+############# Starting Epoch 7 | LR: 5e-05 #############
+epoch 7's auc score: 0.5045 | best auc score: 0.5047
+############# Starting Epoch 8 | LR: 5e-05 #############
+Saving best model...
+epoch 8's auc score: 0.5054 | best auc score: 0.5054
+############# Starting Epoch 9 | LR: 5e-05 #############
+Saving best model...
+epoch 9's auc score: 0.5061 | best auc score: 0.5061
+############# Starting Epoch 10 | LR: 5e-05 #############
+epoch 10's auc score: 0.5017 | best auc score: 0.5061
+############# Starting Epoch 11 | LR: 5e-05 #############
+epoch 11's auc score: 0.5056 | best auc score: 0.5061
+############# Starting Epoch 12 | LR: 5e-05 #############
+Saving best model...
+epoch 12's auc score: 0.5070 | best auc score: 0.5070
+############# Starting Epoch 13 | LR: 5e-05 #############
+epoch 13's auc score: 0.5054 | best auc score: 0.5070
+############# Starting Epoch 14 | LR: 5e-05 #############
+epoch 14's auc score: 0.5015 | best auc score: 0.5070
+############# Starting Epoch 15 | LR: 5e-05 #############
+epoch 15's auc score: 0.5011 | best auc score: 0.5070
+############# Starting Epoch 16 | LR: 5e-05 #############
+epoch 16's auc score: 0.4983 | best auc score: 0.5070
+############# Starting Epoch 17 | LR: 5e-05 #############
+epoch 17's auc score: 0.4985 | best auc score: 0.5070
+############# Starting Epoch 18 | LR: 5e-05 #############
+epoch 18's auc score: 0.4990 | best auc score: 0.5070
+############# Starting Epoch 19 | LR: 5e-05 #############
+epoch 19's auc score: 0.4993 | best auc score: 0.5070
+############# Starting Epoch 20 | LR: 5e-05 #############
+epoch 20's auc score: 0.4970 | best auc score: 0.5070
+############# Starting Epoch 21 | LR: 5e-05 #############
+epoch 21's auc score: 0.4956 | best auc score: 0.5070
+############# Starting Epoch 22 | LR: 5e-05 #############
+epoch 22's auc score: 0.4963 | best auc score: 0.5070
+############# Starting Epoch 23 | LR: 5e-05 #############
+epoch 23's auc score: 0.4975 | best auc score: 0.5070
+############# Starting Epoch 24 | LR: 5e-05 #############
+epoch 24's auc score: 0.4958 | best auc score: 0.5070
+############# Starting Epoch 25 | LR: 5e-05 #############
+epoch 25's auc score: 0.4955 | best auc score: 0.5070
+############# Starting Epoch 26 | LR: 5e-05 #############
+epoch 26's auc score: 0.4944 | best auc score: 0.5070
+############# Starting Epoch 27 | LR: 5e-05 #############
+epoch 27's auc score: 0.4930 | best auc score: 0.5070
+############# Starting Epoch 28 | LR: 5e-05 #############
+epoch 28's auc score: 0.4908 | best auc score: 0.5070
+############# Starting Epoch 29 | LR: 5e-05 #############
+epoch 29's auc score: 0.4895 | best auc score: 0.5070
+############# Starting Epoch 30 | LR: 5e-05 #############
+epoch 30's auc score: 0.4914 | best auc score: 0.5070
+############# Starting Epoch 31 | LR: 5e-05 #############
+epoch 31's auc score: 0.4879 | best auc score: 0.5070
+############# Starting Epoch 32 | LR: 5e-05 #############
+epoch 32's auc score: 0.4874 | best auc score: 0.5070
+############# Starting Epoch 33 | LR: 5e-05 #############
+epoch 33's auc score: 0.4896 | best auc score: 0.5070
+############# Starting Epoch 34 | LR: 5e-05 #############
+epoch 34's auc score: 0.4895 | best auc score: 0.5070
+############# Starting Epoch 35 | LR: 5e-05 #############
+epoch 35's auc score: 0.4904 | best auc score: 0.5070
+############# Starting Epoch 36 | LR: 5e-05 #############
+epoch 36's auc score: 0.4906 | best auc score: 0.5070
+############# Starting Epoch 37 | LR: 5e-05 #############
+epoch 37's auc score: 0.4899 | best auc score: 0.5070
+############# Starting Epoch 38 | LR: 5e-05 #############
+epoch 38's auc score: 0.4872 | best auc score: 0.5070
+############# Starting Epoch 39 | LR: 5e-05 #############
+epoch 39's auc score: 0.4788 | best auc score: 0.5070
+############# Starting Epoch 40 | LR: 5e-05 #############
+epoch 40's auc score: 0.4821 | best auc score: 0.5070
+############# Starting Epoch 41 | LR: 5e-05 #############
+epoch 41's auc score: 0.4827 | best auc score: 0.5070
+############# Starting Epoch 42 | LR: 5e-05 #############
+epoch 42's auc score: 0.4894 | best auc score: 0.5070
+############# Starting Epoch 43 | LR: 5e-05 #############
+epoch 43's auc score: 0.4733 | best auc score: 0.5070
+############# Starting Epoch 44 | LR: 5e-05 #############
+epoch 44's auc score: 0.4811 | best auc score: 0.5070
+############# Starting Epoch 45 | LR: 5e-05 #############
+epoch 45's auc score: 0.4813 | best auc score: 0.5070
+############# Starting Epoch 46 | LR: 5e-05 #############
+epoch 46's auc score: 0.4797 | best auc score: 0.5070
+############# Starting Epoch 47 | LR: 5e-05 #############
+epoch 47's auc score: 0.4471 | best auc score: 0.5070
+############# Starting Epoch 48 | LR: 5e-05 #############
+epoch 48's auc score: 0.4447 | best auc score: 0.5070
+############# Starting Epoch 49 | LR: 5e-05 #############
+epoch 49's auc score: 0.4542 | best auc score: 0.5070
+############# Starting Epoch 50 | LR: 5e-05 #############
+epoch 50's auc score: 0.4527 | best auc score: 0.5070
+############# Starting Epoch 51 | LR: 5e-05 #############
+epoch 51's auc score: 0.4389 | best auc score: 0.5070
+############# Starting Epoch 52 | LR: 5e-05 #############
+epoch 52's auc score: 0.4314 | best auc score: 0.5070
+############# Starting Epoch 53 | LR: 5e-05 #############
+epoch 53's auc score: 0.4318 | best auc score: 0.5070
+############# Starting Epoch 54 | LR: 5e-05 #############
+epoch 54's auc score: 0.4307 | best auc score: 0.5070
+############# Starting Epoch 55 | LR: 5e-05 #############
+epoch 55's auc score: 0.4306 | best auc score: 0.5070
+############# Starting Epoch 56 | LR: 5e-05 #############
+epoch 56's auc score: 0.4302 | best auc score: 0.5070
+############# Starting Epoch 57 | LR: 5e-05 #############
+epoch 57's auc score: 0.4246 | best auc score: 0.5070
+############# Starting Epoch 58 | LR: 5e-05 #############
+epoch 58's auc score: 0.4264 | best auc score: 0.5070
+############# Starting Epoch 59 | LR: 5e-05 #############
+epoch 59's auc score: 0.4222 | best auc score: 0.5070
+############# Starting Epoch 60 | LR: 5e-05 #############
+epoch 60's auc score: 0.4238 | best auc score: 0.5070
+############# Starting Epoch 61 | LR: 5e-05 #############
+epoch 61's auc score: 0.4232 | best auc score: 0.5070
+############# Starting Epoch 62 | LR: 5e-05 #############
+epoch 62's auc score: 0.4314 | best auc score: 0.5070
+############# Starting Epoch 63 | LR: 5e-05 #############
+epoch 63's auc score: 0.4621 | best auc score: 0.5070
+############# Starting Epoch 64 | LR: 5e-05 #############
+epoch 64's auc score: 0.4641 | best auc score: 0.5070
+############# Starting Epoch 65 | LR: 5e-05 #############
+epoch 65's auc score: 0.4667 | best auc score: 0.5070
+############# Starting Epoch 66 | LR: 5e-05 #############
+epoch 66's auc score: 0.4594 | best auc score: 0.5070
+############# Starting Epoch 67 | LR: 5e-05 #############
+epoch 67's auc score: 0.4472 | best auc score: 0.5070
+############# Starting Epoch 68 | LR: 5e-05 #############
+epoch 68's auc score: 0.4322 | best auc score: 0.5070
+############# Starting Epoch 69 | LR: 5e-05 #############
+epoch 69's auc score: 0.4311 | best auc score: 0.5070
+############# Starting Epoch 70 | LR: 5e-05 #############
+epoch 70's auc score: 0.4260 | best auc score: 0.5070
+############# Starting Epoch 71 | LR: 5e-05 #############
+epoch 71's auc score: 0.4270 | best auc score: 0.5070
+############# Starting Epoch 72 | LR: 5e-05 #############
+epoch 72's auc score: 0.4262 | best auc score: 0.5070
+############# Starting Epoch 73 | LR: 5e-05 #############
+epoch 73's auc score: 0.4243 | best auc score: 0.5070
+############# Starting Epoch 74 | LR: 5e-05 #############
+epoch 74's auc score: 0.4270 | best auc score: 0.5070
+############# Starting Epoch 75 | LR: 5e-05 #############
+epoch 75's auc score: 0.4372 | best auc score: 0.5070
+############# Starting Epoch 76 | LR: 5e-05 #############
+epoch 76's auc score: 0.4291 | best auc score: 0.5070
+############# Starting Epoch 77 | LR: 5e-05 #############
+epoch 77's auc score: 0.4160 | best auc score: 0.5070
+############# Starting Epoch 78 | LR: 5e-05 #############
+epoch 78's auc score: 0.4283 | best auc score: 0.5070
+############# Starting Epoch 79 | LR: 5e-05 #############
+epoch 79's auc score: 0.4040 | best auc score: 0.5070
+############# Starting Epoch 80 | LR: 5e-05 #############
+epoch 80's auc score: 0.4239 | best auc score: 0.5070
+############# Starting Epoch 81 | LR: 5e-05 #############
+epoch 81's auc score: 0.4313 | best auc score: 0.5070
+############# Starting Epoch 82 | LR: 5e-05 #############
+epoch 82's auc score: 0.4318 | best auc score: 0.5070
+############# Starting Epoch 83 | LR: 5e-05 #############
+epoch 83's auc score: 0.4400 | best auc score: 0.5070
+############# Starting Epoch 84 | LR: 5e-05 #############
+epoch 84's auc score: 0.4345 | best auc score: 0.5070
+############# Starting Epoch 85 | LR: 5e-05 #############
+epoch 85's auc score: 0.4287 | best auc score: 0.5070
+############# Starting Epoch 86 | LR: 5e-05 #############
+epoch 86's auc score: 0.4289 | best auc score: 0.5070
+############# Starting Epoch 87 | LR: 5e-05 #############
+epoch 87's auc score: 0.4326 | best auc score: 0.5070
+############# Starting Epoch 88 | LR: 5e-05 #############
+epoch 88's auc score: 0.4406 | best auc score: 0.5070
+############# Starting Epoch 89 | LR: 5e-05 #############
+epoch 89's auc score: 0.4393 | best auc score: 0.5070
+############# Starting Epoch 90 | LR: 5e-05 #############
+epoch 90's auc score: 0.4381 | best auc score: 0.5070
+############# Starting Epoch 91 | LR: 5e-05 #############
+epoch 91's auc score: 0.4350 | best auc score: 0.5070
+############# Starting Epoch 92 | LR: 5e-05 #############
+epoch 92's auc score: 0.4426 | best auc score: 0.5070
+############# Starting Epoch 93 | LR: 5e-05 #############
+epoch 93's auc score: 0.4467 | best auc score: 0.5070
+############# Starting Epoch 94 | LR: 5e-05 #############
+epoch 94's auc score: 0.4530 | best auc score: 0.5070
+############# Starting Epoch 95 | LR: 5e-05 #############
+epoch 95's auc score: 0.4578 | best auc score: 0.5070
+############# Starting Epoch 96 | LR: 5e-05 #############
+epoch 96's auc score: 0.4479 | best auc score: 0.5070
+############# Starting Epoch 97 | LR: 5e-05 #############
+epoch 97's auc score: 0.4286 | best auc score: 0.5070
+############# Starting Epoch 98 | LR: 5e-05 #############
+epoch 98's auc score: 0.4291 | best auc score: 0.5070
+############# Starting Epoch 99 | LR: 5e-05 #############
+epoch 99's auc score: 0.4274 | best auc score: 0.5070
+############# Starting Epoch 100 | LR: 5e-05 #############
+epoch 100's auc score: 0.4365 | best auc score: 0.5070
+############# Starting Epoch 101 | LR: 5e-05 #############
+epoch 101's auc score: 0.4679 | best auc score: 0.5070
+############# Starting Epoch 102 | LR: 5e-05 #############
+epoch 102's auc score: 0.4568 | best auc score: 0.5070
+############# Starting Epoch 103 | LR: 5e-05 #############
+epoch 103's auc score: 0.4576 | best auc score: 0.5070
+############# Starting Epoch 104 | LR: 5e-05 #############
+epoch 104's auc score: 0.4509 | best auc score: 0.5070
+############# Starting Epoch 105 | LR: 5e-05 #############
+epoch 105's auc score: 0.4495 | best auc score: 0.5070
+############# Starting Epoch 106 | LR: 5e-05 #############
+epoch 106's auc score: 0.4480 | best auc score: 0.5070
+############# Starting Epoch 107 | LR: 5e-05 #############
+epoch 107's auc score: 0.4492 | best auc score: 0.5070
+############# Starting Epoch 108 | LR: 5e-05 #############
+epoch 108's auc score: 0.4468 | best auc score: 0.5070
+############# Starting Epoch 109 | LR: 5e-05 #############
+epoch 109's auc score: 0.4332 | best auc score: 0.5070
+############# Starting Epoch 110 | LR: 5e-05 #############
+epoch 110's auc score: 0.4057 | best auc score: 0.5070
+############# Starting Epoch 111 | LR: 5e-05 #############
+epoch 111's auc score: 0.3765 | best auc score: 0.5070
+############# Starting Epoch 112 | LR: 5e-05 #############
+epoch 112's auc score: 0.3899 | best auc score: 0.5070
+############# Starting Epoch 113 | LR: 5e-05 #############
+epoch 113's auc score: 0.4131 | best auc score: 0.5070
+############# Starting Epoch 114 | LR: 5e-05 #############
+epoch 114's auc score: 0.4176 | best auc score: 0.5070
+############# Starting Epoch 115 | LR: 5e-05 #############
+epoch 115's auc score: 0.4161 | best auc score: 0.5070
+############# Starting Epoch 116 | LR: 5e-05 #############
+epoch 116's auc score: 0.4247 | best auc score: 0.5070
+############# Starting Epoch 117 | LR: 5e-05 #############
+epoch 117's auc score: 0.4752 | best auc score: 0.5070
+############# Starting Epoch 118 | LR: 5e-05 #############
+epoch 118's auc score: 0.4739 | best auc score: 0.5070
+############# Starting Epoch 119 | LR: 5e-05 #############
+epoch 119's auc score: 0.4750 | best auc score: 0.5070
+############# Starting Epoch 120 | LR: 5e-05 #############
+epoch 120's auc score: 0.4493 | best auc score: 0.5070
+############# Starting Epoch 121 | LR: 5e-05 #############
+epoch 121's auc score: 0.4207 | best auc score: 0.5070
+############# Starting Epoch 122 | LR: 5e-05 #############
+epoch 122's auc score: 0.4269 | best auc score: 0.5070
+############# Starting Epoch 123 | LR: 5e-05 #############
+epoch 123's auc score: 0.4323 | best auc score: 0.5070
+############# Starting Epoch 124 | LR: 5e-05 #############
+epoch 124's auc score: 0.4378 | best auc score: 0.5070
+############# Starting Epoch 125 | LR: 5e-05 #############
+epoch 125's auc score: 0.4260 | best auc score: 0.5070
+############# Starting Epoch 126 | LR: 5e-05 #############
+epoch 126's auc score: 0.4352 | best auc score: 0.5070
+############# Starting Epoch 127 | LR: 5e-05 #############
+epoch 127's auc score: 0.4210 | best auc score: 0.5070
+############# Starting Epoch 128 | LR: 5e-05 #############
+epoch 128's auc score: 0.4204 | best auc score: 0.5070
+############# Starting Epoch 129 | LR: 5e-05 #############
+epoch 129's auc score: 0.4217 | best auc score: 0.5070
+############# Starting Epoch 130 | LR: 5e-05 #############
+epoch 130's auc score: 0.4387 | best auc score: 0.5070
+############# Starting Epoch 131 | LR: 5e-05 #############
+epoch 131's auc score: 0.4410 | best auc score: 0.5070
+############# Starting Epoch 132 | LR: 5e-05 #############
+epoch 132's auc score: 0.4388 | best auc score: 0.5070
+############# Starting Epoch 133 | LR: 5e-05 #############
+epoch 133's auc score: 0.4189 | best auc score: 0.5070
+############# Starting Epoch 134 | LR: 5e-05 #############
+epoch 134's auc score: 0.4139 | best auc score: 0.5070
+############# Starting Epoch 135 | LR: 5e-05 #############
+epoch 135's auc score: 0.4285 | best auc score: 0.5070
+############# Starting Epoch 136 | LR: 5e-05 #############
+epoch 136's auc score: 0.4597 | best auc score: 0.5070
+############# Starting Epoch 137 | LR: 5e-05 #############
+epoch 137's auc score: 0.4449 | best auc score: 0.5070
+############# Starting Epoch 138 | LR: 5e-05 #############
+epoch 138's auc score: 0.4477 | best auc score: 0.5070
+############# Starting Epoch 139 | LR: 5e-05 #############
+epoch 139's auc score: 0.4398 | best auc score: 0.5070
+############# Starting Epoch 140 | LR: 5e-05 #############
+epoch 140's auc score: 0.4016 | best auc score: 0.5070
+############# Starting Epoch 141 | LR: 5e-05 #############
+epoch 141's auc score: 0.3842 | best auc score: 0.5070
+############# Starting Epoch 142 | LR: 5e-05 #############
+epoch 142's auc score: 0.3761 | best auc score: 0.5070
+############# Starting Epoch 143 | LR: 5e-05 #############
+epoch 143's auc score: 0.3870 | best auc score: 0.5070
+############# Starting Epoch 144 | LR: 5e-05 #############
+epoch 144's auc score: 0.3811 | best auc score: 0.5070
+############# Starting Epoch 145 | LR: 5e-05 #############
+epoch 145's auc score: 0.3647 | best auc score: 0.5070
+############# Starting Epoch 146 | LR: 5e-05 #############
+epoch 146's auc score: 0.4305 | best auc score: 0.5070
+############# Starting Epoch 147 | LR: 5e-05 #############
+epoch 147's auc score: 0.3827 | best auc score: 0.5070
+############# Starting Epoch 148 | LR: 5e-05 #############
+epoch 148's auc score: 0.3658 | best auc score: 0.5070
+############# Starting Epoch 149 | LR: 5e-05 #############
+epoch 149's auc score: 0.3647 | best auc score: 0.5070
+############# Starting Epoch 150 | LR: 5e-05 #############
+epoch 150's auc score: 0.3550 | best auc score: 0.5070
+############# Starting Epoch 151 | LR: 5e-05 #############
+epoch 151's auc score: 0.4235 | best auc score: 0.5070
+############# Starting Epoch 152 | LR: 5e-05 #############
+epoch 152's auc score: 0.3922 | best auc score: 0.5070
+############# Starting Epoch 153 | LR: 5e-05 #############
+epoch 153's auc score: 0.3878 | best auc score: 0.5070
+############# Starting Epoch 154 | LR: 5e-05 #############
+epoch 154's auc score: 0.4011 | best auc score: 0.5070
+############# Starting Epoch 155 | LR: 5e-05 #############
+epoch 155's auc score: 0.3895 | best auc score: 0.5070
+############# Starting Epoch 156 | LR: 5e-05 #############
+epoch 156's auc score: 0.4182 | best auc score: 0.5070
+############# Starting Epoch 157 | LR: 5e-05 #############
+epoch 157's auc score: 0.4404 | best auc score: 0.5070
+############# Starting Epoch 158 | LR: 5e-05 #############
+Saving best model...
+epoch 158's auc score: 0.5166 | best auc score: 0.5166
+############# Starting Epoch 159 | LR: 5e-05 #############
+epoch 159's auc score: 0.4879 | best auc score: 0.5166
+############# Starting Epoch 160 | LR: 5e-05 #############
+epoch 160's auc score: 0.4438 | best auc score: 0.5166
+############# Starting Epoch 161 | LR: 5e-05 #############
+epoch 161's auc score: 0.3918 | best auc score: 0.5166
+############# Starting Epoch 162 | LR: 5e-05 #############
+epoch 162's auc score: 0.3992 | best auc score: 0.5166
+############# Starting Epoch 163 | LR: 5e-05 #############
+epoch 163's auc score: 0.4124 | best auc score: 0.5166
+############# Starting Epoch 164 | LR: 5e-05 #############
+Saving best model...
+epoch 164's auc score: 0.5871 | best auc score: 0.5871
+############# Starting Epoch 165 | LR: 5e-05 #############
+epoch 165's auc score: 0.5073 | best auc score: 0.5871
+############# Starting Epoch 166 | LR: 5e-05 #############
+epoch 166's auc score: 0.4398 | best auc score: 0.5871
+############# Starting Epoch 167 | LR: 5e-05 #############
+epoch 167's auc score: 0.3239 | best auc score: 0.5871
+############# Starting Epoch 168 | LR: 5e-05 #############
+epoch 168's auc score: 0.3055 | best auc score: 0.5871
+############# Starting Epoch 169 | LR: 5e-05 #############
+epoch 169's auc score: 0.3255 | best auc score: 0.5871
+############# Starting Epoch 170 | LR: 5e-05 #############
+epoch 170's auc score: 0.3246 | best auc score: 0.5871
+############# Starting Epoch 171 | LR: 5e-05 #############
+epoch 171's auc score: 0.3362 | best auc score: 0.5871
+############# Starting Epoch 172 | LR: 5e-05 #############
+epoch 172's auc score: 0.3705 | best auc score: 0.5871
+############# Starting Epoch 173 | LR: 5e-05 #############
+epoch 173's auc score: 0.3526 | best auc score: 0.5871
+############# Starting Epoch 174 | LR: 5e-05 #############
+epoch 174's auc score: 0.3473 | best auc score: 0.5871
+############# Starting Epoch 175 | LR: 5e-05 #############
+epoch 175's auc score: 0.3425 | best auc score: 0.5871
+############# Starting Epoch 176 | LR: 5e-05 #############
+epoch 176's auc score: 0.3497 | best auc score: 0.5871
+############# Starting Epoch 177 | LR: 5e-05 #############
+epoch 177's auc score: 0.3724 | best auc score: 0.5871
+############# Starting Epoch 178 | LR: 5e-05 #############
+epoch 178's auc score: 0.3719 | best auc score: 0.5871
+############# Starting Epoch 179 | LR: 5e-05 #############
+epoch 179's auc score: 0.4257 | best auc score: 0.5871
+############# Starting Epoch 180 | LR: 5e-05 #############
+epoch 180's auc score: 0.3528 | best auc score: 0.5871
+############# Starting Epoch 181 | LR: 5e-05 #############
+epoch 181's auc score: 0.3374 | best auc score: 0.5871
+############# Starting Epoch 182 | LR: 5e-05 #############
+epoch 182's auc score: 0.3549 | best auc score: 0.5871
+############# Starting Epoch 183 | LR: 5e-05 #############
+epoch 183's auc score: 0.3765 | best auc score: 0.5871
+############# Starting Epoch 184 | LR: 5e-05 #############
+epoch 184's auc score: 0.3743 | best auc score: 0.5871
+############# Starting Epoch 185 | LR: 5e-05 #############
+epoch 185's auc score: 0.3780 | best auc score: 0.5871
+############# Starting Epoch 186 | LR: 5e-05 #############
+epoch 186's auc score: 0.2906 | best auc score: 0.5871
+############# Starting Epoch 187 | LR: 5e-05 #############
+epoch 187's auc score: 0.2893 | best auc score: 0.5871
+############# Starting Epoch 188 | LR: 5e-05 #############
+epoch 188's auc score: 0.2966 | best auc score: 0.5871
+############# Starting Epoch 189 | LR: 5e-05 #############
+epoch 189's auc score: 0.3182 | best auc score: 0.5871
+############# Starting Epoch 190 | LR: 5e-05 #############
+epoch 190's auc score: 0.3147 | best auc score: 0.5871
+############# Starting Epoch 191 | LR: 5e-05 #############
+epoch 191's auc score: 0.3373 | best auc score: 0.5871
+############# Starting Epoch 192 | LR: 5e-05 #############
+epoch 192's auc score: 0.3439 | best auc score: 0.5871
+############# Starting Epoch 193 | LR: 5e-05 #############
+epoch 193's auc score: 0.3371 | best auc score: 0.5871
+############# Starting Epoch 194 | LR: 5e-05 #############
+epoch 194's auc score: 0.3065 | best auc score: 0.5871
+############# Starting Epoch 195 | LR: 5e-05 #############
+epoch 195's auc score: 0.3077 | best auc score: 0.5871
+############# Starting Epoch 196 | LR: 5e-05 #############
+epoch 196's auc score: 0.3661 | best auc score: 0.5871
+############# Starting Epoch 197 | LR: 5e-05 #############
+epoch 197's auc score: 0.3394 | best auc score: 0.5871
+############# Starting Epoch 198 | LR: 5e-05 #############
+epoch 198's auc score: 0.3301 | best auc score: 0.5871
+############# Starting Epoch 199 | LR: 5e-05 #############
+epoch 199's auc score: 0.3309 | best auc score: 0.5871
+############# Starting Epoch 200 | LR: 5e-05 #############
+epoch 200's auc score: 0.5344 | best auc score: 0.5871
+############# Starting Epoch 201 | LR: 5e-05 #############
+epoch 201's auc score: 0.5643 | best auc score: 0.5871
+############# Starting Epoch 202 | LR: 5e-05 #############
+epoch 202's auc score: 0.5752 | best auc score: 0.5871
+############# Starting Epoch 203 | LR: 5e-05 #############
+epoch 203's auc score: 0.5112 | best auc score: 0.5871
+############# Starting Epoch 204 | LR: 5e-05 #############
+epoch 204's auc score: 0.4033 | best auc score: 0.5871
+############# Starting Epoch 205 | LR: 5e-05 #############
+epoch 205's auc score: 0.3522 | best auc score: 0.5871
+############# Starting Epoch 206 | LR: 5e-05 #############
+epoch 206's auc score: 0.3645 | best auc score: 0.5871
+############# Starting Epoch 207 | LR: 5e-05 #############
+epoch 207's auc score: 0.3314 | best auc score: 0.5871
+############# Starting Epoch 208 | LR: 5e-05 #############
+epoch 208's auc score: 0.2684 | best auc score: 0.5871
+############# Starting Epoch 209 | LR: 5e-05 #############
+epoch 209's auc score: 0.2686 | best auc score: 0.5871
+############# Starting Epoch 210 | LR: 5e-05 #############
+epoch 210's auc score: 0.4177 | best auc score: 0.5871
+############# Starting Epoch 211 | LR: 5e-05 #############
+epoch 211's auc score: 0.4357 | best auc score: 0.5871
+############# Starting Epoch 212 | LR: 5e-05 #############
+epoch 212's auc score: 0.3396 | best auc score: 0.5871
+############# Starting Epoch 213 | LR: 5e-05 #############
+epoch 213's auc score: 0.3756 | best auc score: 0.5871
+############# Starting Epoch 214 | LR: 5e-05 #############
+epoch 214's auc score: 0.4158 | best auc score: 0.5871
+############# Starting Epoch 215 | LR: 5e-05 #############
+epoch 215's auc score: 0.3862 | best auc score: 0.5871
+############# Starting Epoch 216 | LR: 5e-05 #############
+epoch 216's auc score: 0.3311 | best auc score: 0.5871
+############# Starting Epoch 217 | LR: 5e-05 #############
+epoch 217's auc score: 0.2793 | best auc score: 0.5871
+############# Starting Epoch 218 | LR: 5e-05 #############
+epoch 218's auc score: 0.3103 | best auc score: 0.5871
+############# Starting Epoch 219 | LR: 5e-05 #############
+epoch 219's auc score: 0.3777 | best auc score: 0.5871
+############# Starting Epoch 220 | LR: 5e-05 #############
+epoch 220's auc score: 0.3802 | best auc score: 0.5871
+############# Starting Epoch 221 | LR: 5e-05 #############
+epoch 221's auc score: 0.3203 | best auc score: 0.5871
+############# Starting Epoch 222 | LR: 5e-05 #############
+epoch 222's auc score: 0.4697 | best auc score: 0.5871
+############# Starting Epoch 223 | LR: 5e-05 #############
+epoch 223's auc score: 0.4078 | best auc score: 0.5871
+############# Starting Epoch 224 | LR: 5e-05 #############
+epoch 224's auc score: 0.4084 | best auc score: 0.5871
+############# Starting Epoch 225 | LR: 5e-05 #############
+epoch 225's auc score: 0.3881 | best auc score: 0.5871
+############# Starting Epoch 226 | LR: 5e-05 #############
+epoch 226's auc score: 0.4650 | best auc score: 0.5871
+############# Starting Epoch 227 | LR: 5e-05 #############
+epoch 227's auc score: 0.4433 | best auc score: 0.5871
+############# Starting Epoch 228 | LR: 5e-05 #############
+epoch 228's auc score: 0.3748 | best auc score: 0.5871
+############# Starting Epoch 229 | LR: 5e-05 #############
+epoch 229's auc score: 0.3332 | best auc score: 0.5871
+############# Starting Epoch 230 | LR: 5e-05 #############
+epoch 230's auc score: 0.3400 | best auc score: 0.5871
+############# Starting Epoch 231 | LR: 5e-05 #############
+epoch 231's auc score: 0.3492 | best auc score: 0.5871
+############# Starting Epoch 232 | LR: 5e-05 #############
+epoch 232's auc score: 0.3531 | best auc score: 0.5871
+############# Starting Epoch 233 | LR: 5e-05 #############
+epoch 233's auc score: 0.3308 | best auc score: 0.5871
+############# Starting Epoch 234 | LR: 5e-05 #############
+epoch 234's auc score: 0.3058 | best auc score: 0.5871
+############# Starting Epoch 235 | LR: 5e-05 #############
+epoch 235's auc score: 0.3127 | best auc score: 0.5871
+############# Starting Epoch 236 | LR: 5e-05 #############
+epoch 236's auc score: 0.3027 | best auc score: 0.5871
+############# Starting Epoch 237 | LR: 5e-05 #############
+epoch 237's auc score: 0.3712 | best auc score: 0.5871
+############# Starting Epoch 238 | LR: 5e-05 #############
+epoch 238's auc score: 0.5440 | best auc score: 0.5871
+############# Starting Epoch 239 | LR: 5e-05 #############
+epoch 239's auc score: 0.4862 | best auc score: 0.5871
+############# Starting Epoch 240 | LR: 5e-05 #############
+epoch 240's auc score: 0.5002 | best auc score: 0.5871
+############# Starting Epoch 241 | LR: 5e-05 #############
+epoch 241's auc score: 0.3467 | best auc score: 0.5871
+############# Starting Epoch 242 | LR: 5e-05 #############
+epoch 242's auc score: 0.2778 | best auc score: 0.5871
+############# Starting Epoch 243 | LR: 5e-05 #############
+epoch 243's auc score: 0.2836 | best auc score: 0.5871
+############# Starting Epoch 244 | LR: 5e-05 #############
+epoch 244's auc score: 0.2832 | best auc score: 0.5871
+############# Starting Epoch 245 | LR: 5e-05 #############
+epoch 245's auc score: 0.2506 | best auc score: 0.5871
+############# Starting Epoch 246 | LR: 5e-05 #############
+epoch 246's auc score: 0.2451 | best auc score: 0.5871
+############# Starting Epoch 247 | LR: 5e-05 #############
+epoch 247's auc score: 0.2713 | best auc score: 0.5871
+############# Starting Epoch 248 | LR: 5e-05 #############
+epoch 248's auc score: 0.2806 | best auc score: 0.5871
+############# Starting Epoch 249 | LR: 5e-05 #############
+epoch 249's auc score: 0.2785 | best auc score: 0.5871
+############# Starting Epoch 250 | LR: 5e-05 #############
+epoch 250's auc score: 0.2558 | best auc score: 0.5871
+############# Starting Epoch 251 | LR: 5e-05 #############
+epoch 251's auc score: 0.2862 | best auc score: 0.5871
+############# Starting Epoch 252 | LR: 5e-05 #############
+epoch 252's auc score: 0.2555 | best auc score: 0.5871
+############# Starting Epoch 253 | LR: 5e-05 #############
+epoch 253's auc score: 0.2647 | best auc score: 0.5871
+############# Starting Epoch 254 | LR: 5e-05 #############
+epoch 254's auc score: 0.2747 | best auc score: 0.5871
+############# Starting Epoch 255 | LR: 5e-05 #############
+epoch 255's auc score: 0.2615 | best auc score: 0.5871
+############# Starting Epoch 256 | LR: 5e-05 #############
+epoch 256's auc score: 0.2523 | best auc score: 0.5871
+############# Starting Epoch 257 | LR: 5e-05 #############
+epoch 257's auc score: 0.2520 | best auc score: 0.5871
+############# Starting Epoch 258 | LR: 5e-05 #############
+epoch 258's auc score: 0.2657 | best auc score: 0.5871
+############# Starting Epoch 259 | LR: 5e-05 #############
+epoch 259's auc score: 0.2774 | best auc score: 0.5871
+############# Starting Epoch 260 | LR: 5e-05 #############
+epoch 260's auc score: 0.2759 | best auc score: 0.5871
+############# Starting Epoch 261 | LR: 5e-05 #############
+epoch 261's auc score: 0.2611 | best auc score: 0.5871
+############# Starting Epoch 262 | LR: 5e-05 #############
+epoch 262's auc score: 0.3144 | best auc score: 0.5871
+############# Starting Epoch 263 | LR: 5e-05 #############
+epoch 263's auc score: 0.2410 | best auc score: 0.5871
+############# Starting Epoch 264 | LR: 5e-05 #############
+epoch 264's auc score: 0.2804 | best auc score: 0.5871
+############# Starting Epoch 265 | LR: 5e-05 #############
+epoch 265's auc score: 0.3017 | best auc score: 0.5871
+############# Starting Epoch 266 | LR: 5e-05 #############
+epoch 266's auc score: 0.2978 | best auc score: 0.5871
+############# Starting Epoch 267 | LR: 5e-05 #############
+epoch 267's auc score: 0.2492 | best auc score: 0.5871
+############# Starting Epoch 268 | LR: 5e-05 #############
+epoch 268's auc score: 0.2235 | best auc score: 0.5871
+############# Starting Epoch 269 | LR: 5e-05 #############
+epoch 269's auc score: 0.2319 | best auc score: 0.5871
+############# Starting Epoch 270 | LR: 5e-05 #############
+epoch 270's auc score: 0.2288 | best auc score: 0.5871
+############# Starting Epoch 271 | LR: 5e-05 #############
+epoch 271's auc score: 0.2403 | best auc score: 0.5871
+############# Starting Epoch 272 | LR: 5e-05 #############
+epoch 272's auc score: 0.2300 | best auc score: 0.5871
+############# Starting Epoch 273 | LR: 5e-05 #############
+epoch 273's auc score: 0.2663 | best auc score: 0.5871
+############# Starting Epoch 274 | LR: 5e-05 #############
+epoch 274's auc score: 0.2818 | best auc score: 0.5871
+############# Starting Epoch 275 | LR: 5e-05 #############
+epoch 275's auc score: 0.3261 | best auc score: 0.5871
+############# Starting Epoch 276 | LR: 5e-05 #############
+epoch 276's auc score: 0.4056 | best auc score: 0.5871
+############# Starting Epoch 277 | LR: 5e-05 #############
+epoch 277's auc score: 0.4198 | best auc score: 0.5871
+############# Starting Epoch 278 | LR: 5e-05 #############
+epoch 278's auc score: 0.3746 | best auc score: 0.5871
+############# Starting Epoch 279 | LR: 5e-05 #############
+epoch 279's auc score: 0.3344 | best auc score: 0.5871
+############# Starting Epoch 280 | LR: 5e-05 #############
+epoch 280's auc score: 0.3358 | best auc score: 0.5871
+############# Starting Epoch 281 | LR: 5e-05 #############
+epoch 281's auc score: 0.3144 | best auc score: 0.5871
+############# Starting Epoch 282 | LR: 5e-05 #############
+epoch 282's auc score: 0.3135 | best auc score: 0.5871
+############# Starting Epoch 283 | LR: 5e-05 #############
+epoch 283's auc score: 0.2587 | best auc score: 0.5871
+############# Starting Epoch 284 | LR: 5e-05 #############
+epoch 284's auc score: 0.3453 | best auc score: 0.5871
+############# Starting Epoch 285 | LR: 5e-05 #############
+epoch 285's auc score: 0.3238 | best auc score: 0.5871
+############# Starting Epoch 286 | LR: 5e-05 #############
+epoch 286's auc score: 0.3224 | best auc score: 0.5871
+############# Starting Epoch 287 | LR: 5e-05 #############
+epoch 287's auc score: 0.3049 | best auc score: 0.5871
+############# Starting Epoch 288 | LR: 5e-05 #############
+epoch 288's auc score: 0.3297 | best auc score: 0.5871
+############# Starting Epoch 289 | LR: 5e-05 #############
+epoch 289's auc score: 0.3399 | best auc score: 0.5871
+############# Starting Epoch 290 | LR: 5e-05 #############
+epoch 290's auc score: 0.2771 | best auc score: 0.5871
+############# Starting Epoch 291 | LR: 5e-05 #############
+epoch 291's auc score: 0.3287 | best auc score: 0.5871
+############# Starting Epoch 292 | LR: 5e-05 #############
+epoch 292's auc score: 0.3188 | best auc score: 0.5871
+############# Starting Epoch 293 | LR: 5e-05 #############
+epoch 293's auc score: 0.3321 | best auc score: 0.5871
+############# Starting Epoch 294 | LR: 5e-05 #############
+epoch 294's auc score: 0.3294 | best auc score: 0.5871
+############# Starting Epoch 295 | LR: 5e-05 #############
+epoch 295's auc score: 0.2967 | best auc score: 0.5871
+############# Starting Epoch 296 | LR: 5e-05 #############
+epoch 296's auc score: 0.3288 | best auc score: 0.5871
+############# Starting Epoch 297 | LR: 5e-05 #############
+epoch 297's auc score: 0.3197 | best auc score: 0.5871
+############# Starting Epoch 298 | LR: 5e-05 #############
+epoch 298's auc score: 0.3177 | best auc score: 0.5871
+############# Starting Epoch 299 | LR: 5e-05 #############
+epoch 299's auc score: 0.2996 | best auc score: 0.5871
+############# Starting Epoch 300 | LR: 5e-05 #############
+epoch 300's auc score: 0.2681 | best auc score: 0.5871
+############# Starting Epoch 301 | LR: 5e-05 #############
+epoch 301's auc score: 0.2643 | best auc score: 0.5871
+############# Starting Epoch 302 | LR: 5e-05 #############
+epoch 302's auc score: 0.2352 | best auc score: 0.5871
+############# Starting Epoch 303 | LR: 5e-05 #############
+epoch 303's auc score: 0.2512 | best auc score: 0.5871
+############# Starting Epoch 304 | LR: 5e-05 #############
+epoch 304's auc score: 0.2621 | best auc score: 0.5871
+############# Starting Epoch 305 | LR: 5e-05 #############
+epoch 305's auc score: 0.3038 | best auc score: 0.5871
+############# Starting Epoch 306 | LR: 5e-05 #############
+epoch 306's auc score: 0.2782 | best auc score: 0.5871
+############# Starting Epoch 307 | LR: 5e-05 #############
+epoch 307's auc score: 0.3785 | best auc score: 0.5871
+############# Starting Epoch 308 | LR: 5e-05 #############
+epoch 308's auc score: 0.4735 | best auc score: 0.5871
+############# Starting Epoch 309 | LR: 5e-05 #############
+epoch 309's auc score: 0.3996 | best auc score: 0.5871
+############# Starting Epoch 310 | LR: 5e-05 #############
+epoch 310's auc score: 0.2919 | best auc score: 0.5871
+############# Starting Epoch 311 | LR: 5e-05 #############
+epoch 311's auc score: 0.2557 | best auc score: 0.5871
+############# Starting Epoch 312 | LR: 5e-05 #############
+epoch 312's auc score: 0.2715 | best auc score: 0.5871
+############# Starting Epoch 313 | LR: 5e-05 #############
+epoch 313's auc score: 0.3088 | best auc score: 0.5871
+############# Starting Epoch 314 | LR: 5e-05 #############
+epoch 314's auc score: 0.3032 | best auc score: 0.5871
+############# Starting Epoch 315 | LR: 5e-05 #############
+epoch 315's auc score: 0.3259 | best auc score: 0.5871
+############# Starting Epoch 316 | LR: 5e-05 #############
+epoch 316's auc score: 0.3065 | best auc score: 0.5871
+############# Starting Epoch 317 | LR: 5e-05 #############
+epoch 317's auc score: 0.2614 | best auc score: 0.5871
+############# Starting Epoch 318 | LR: 5e-05 #############
+epoch 318's auc score: 0.2869 | best auc score: 0.5871
+############# Starting Epoch 319 | LR: 5e-05 #############
+epoch 319's auc score: 0.3111 | best auc score: 0.5871
+############# Starting Epoch 320 | LR: 5e-05 #############
+epoch 320's auc score: 0.4861 | best auc score: 0.5871
+############# Starting Epoch 321 | LR: 5e-05 #############
+epoch 321's auc score: 0.4329 | best auc score: 0.5871
+############# Starting Epoch 322 | LR: 5e-05 #############
+epoch 322's auc score: 0.4020 | best auc score: 0.5871
+############# Starting Epoch 323 | LR: 5e-05 #############
+Saving best model...
+epoch 323's auc score: 0.5902 | best auc score: 0.5902
+############# Starting Epoch 324 | LR: 5e-05 #############
+epoch 324's auc score: 0.4689 | best auc score: 0.5902
+############# Starting Epoch 325 | LR: 5e-05 #############
+epoch 325's auc score: 0.5161 | best auc score: 0.5902
+############# Starting Epoch 326 | LR: 5e-05 #############
+epoch 326's auc score: 0.4352 | best auc score: 0.5902
+############# Starting Epoch 327 | LR: 5e-05 #############
+epoch 327's auc score: 0.3601 | best auc score: 0.5902
+############# Starting Epoch 328 | LR: 5e-05 #############
+epoch 328's auc score: 0.3888 | best auc score: 0.5902
+############# Starting Epoch 329 | LR: 5e-05 #############
+epoch 329's auc score: 0.3984 | best auc score: 0.5902
+############# Starting Epoch 330 | LR: 5e-05 #############
+epoch 330's auc score: 0.2496 | best auc score: 0.5902
+############# Starting Epoch 331 | LR: 5e-05 #############
+epoch 331's auc score: 0.2634 | best auc score: 0.5902
+############# Starting Epoch 332 | LR: 5e-05 #############
+epoch 332's auc score: 0.2627 | best auc score: 0.5902
+############# Starting Epoch 333 | LR: 5e-05 #############
+epoch 333's auc score: 0.3333 | best auc score: 0.5902
+############# Starting Epoch 334 | LR: 5e-05 #############
+epoch 334's auc score: 0.3448 | best auc score: 0.5902
+############# Starting Epoch 335 | LR: 5e-05 #############
+epoch 335's auc score: 0.3475 | best auc score: 0.5902
+############# Starting Epoch 336 | LR: 5e-05 #############
+epoch 336's auc score: 0.3589 | best auc score: 0.5902
+############# Starting Epoch 337 | LR: 5e-05 #############
+epoch 337's auc score: 0.3778 | best auc score: 0.5902
+############# Starting Epoch 338 | LR: 5e-05 #############
+epoch 338's auc score: 0.3338 | best auc score: 0.5902
+############# Starting Epoch 339 | LR: 5e-05 #############
+epoch 339's auc score: 0.3079 | best auc score: 0.5902
+############# Starting Epoch 340 | LR: 5e-05 #############
+epoch 340's auc score: 0.3102 | best auc score: 0.5902
+############# Starting Epoch 341 | LR: 5e-05 #############
+epoch 341's auc score: 0.2821 | best auc score: 0.5902
+############# Starting Epoch 342 | LR: 5e-05 #############
+epoch 342's auc score: 0.3335 | best auc score: 0.5902
+############# Starting Epoch 343 | LR: 5e-05 #############
+epoch 343's auc score: 0.3330 | best auc score: 0.5902
+############# Starting Epoch 344 | LR: 5e-05 #############
+epoch 344's auc score: 0.2664 | best auc score: 0.5902
+############# Starting Epoch 345 | LR: 5e-05 #############
+epoch 345's auc score: 0.2711 | best auc score: 0.5902
+############# Starting Epoch 346 | LR: 5e-05 #############
+epoch 346's auc score: 0.2709 | best auc score: 0.5902
+############# Starting Epoch 347 | LR: 5e-05 #############
+epoch 347's auc score: 0.2689 | best auc score: 0.5902
+############# Starting Epoch 348 | LR: 5e-05 #############
+epoch 348's auc score: 0.2482 | best auc score: 0.5902
+############# Starting Epoch 349 | LR: 5e-05 #############
+epoch 349's auc score: 0.2607 | best auc score: 0.5902
+############# Starting Epoch 350 | LR: 5e-05 #############
+epoch 350's auc score: 0.2737 | best auc score: 0.5902
+############# Starting Epoch 351 | LR: 5e-05 #############
+epoch 351's auc score: 0.3168 | best auc score: 0.5902
+############# Starting Epoch 352 | LR: 5e-05 #############
+epoch 352's auc score: 0.2711 | best auc score: 0.5902
+############# Starting Epoch 353 | LR: 5e-05 #############
+epoch 353's auc score: 0.2788 | best auc score: 0.5902
+############# Starting Epoch 354 | LR: 5e-05 #############
+epoch 354's auc score: 0.2927 | best auc score: 0.5902
+############# Starting Epoch 355 | LR: 5e-05 #############
+epoch 355's auc score: 0.3111 | best auc score: 0.5902
+############# Starting Epoch 356 | LR: 5e-05 #############
+epoch 356's auc score: 0.3322 | best auc score: 0.5902
+############# Starting Epoch 357 | LR: 5e-05 #############
+epoch 357's auc score: 0.3591 | best auc score: 0.5902
+############# Starting Epoch 358 | LR: 5e-05 #############
+epoch 358's auc score: 0.5428 | best auc score: 0.5902
+############# Starting Epoch 359 | LR: 5e-05 #############
+epoch 359's auc score: 0.4057 | best auc score: 0.5902
+############# Starting Epoch 360 | LR: 5e-05 #############
+epoch 360's auc score: 0.2927 | best auc score: 0.5902
+############# Starting Epoch 361 | LR: 5e-05 #############
+epoch 361's auc score: 0.2775 | best auc score: 0.5902
+############# Starting Epoch 362 | LR: 5e-05 #############
+epoch 362's auc score: 0.3295 | best auc score: 0.5902
+############# Starting Epoch 363 | LR: 5e-05 #############
+epoch 363's auc score: 0.3908 | best auc score: 0.5902
+############# Starting Epoch 364 | LR: 5e-05 #############
+epoch 364's auc score: 0.3534 | best auc score: 0.5902
+############# Starting Epoch 365 | LR: 5e-05 #############
+epoch 365's auc score: 0.3470 | best auc score: 0.5902
+############# Starting Epoch 366 | LR: 5e-05 #############
+epoch 366's auc score: 0.3785 | best auc score: 0.5902
+############# Starting Epoch 367 | LR: 5e-05 #############
+epoch 367's auc score: 0.3766 | best auc score: 0.5902
+############# Starting Epoch 368 | LR: 5e-05 #############
+epoch 368's auc score: 0.3846 | best auc score: 0.5902
+############# Starting Epoch 369 | LR: 5e-05 #############
+epoch 369's auc score: 0.3997 | best auc score: 0.5902
+############# Starting Epoch 370 | LR: 5e-05 #############
+epoch 370's auc score: 0.3836 | best auc score: 0.5902
+############# Starting Epoch 371 | LR: 5e-05 #############
+epoch 371's auc score: 0.3075 | best auc score: 0.5902
+############# Starting Epoch 372 | LR: 5e-05 #############
+epoch 372's auc score: 0.2787 | best auc score: 0.5902
+############# Starting Epoch 373 | LR: 5e-05 #############
+epoch 373's auc score: 0.2588 | best auc score: 0.5902
+############# Starting Epoch 374 | LR: 5e-05 #############
+epoch 374's auc score: 0.2723 | best auc score: 0.5902
+############# Starting Epoch 375 | LR: 5e-05 #############
+epoch 375's auc score: 0.2603 | best auc score: 0.5902
+############# Starting Epoch 376 | LR: 5e-05 #############
+epoch 376's auc score: 0.2746 | best auc score: 0.5902
+############# Starting Epoch 377 | LR: 5e-05 #############
+epoch 377's auc score: 0.2561 | best auc score: 0.5902
+############# Starting Epoch 378 | LR: 5e-05 #############
+epoch 378's auc score: 0.2625 | best auc score: 0.5902
+############# Starting Epoch 379 | LR: 5e-05 #############
+epoch 379's auc score: 0.2561 | best auc score: 0.5902
+############# Starting Epoch 380 | LR: 5e-05 #############
+epoch 380's auc score: 0.2553 | best auc score: 0.5902
+############# Starting Epoch 381 | LR: 5e-05 #############
+epoch 381's auc score: 0.2783 | best auc score: 0.5902
+############# Starting Epoch 382 | LR: 5e-05 #############
+epoch 382's auc score: 0.2765 | best auc score: 0.5902
+############# Starting Epoch 383 | LR: 5e-05 #############
+epoch 383's auc score: 0.2675 | best auc score: 0.5902
+############# Starting Epoch 384 | LR: 5e-05 #############
+epoch 384's auc score: 0.2784 | best auc score: 0.5902
+############# Starting Epoch 385 | LR: 5e-05 #############
+epoch 385's auc score: 0.2948 | best auc score: 0.5902
+############# Starting Epoch 386 | LR: 5e-05 #############
+epoch 386's auc score: 0.2799 | best auc score: 0.5902
+############# Starting Epoch 387 | LR: 5e-05 #############
+epoch 387's auc score: 0.2769 | best auc score: 0.5902
+############# Starting Epoch 388 | LR: 5e-05 #############
+epoch 388's auc score: 0.2868 | best auc score: 0.5902
+############# Starting Epoch 389 | LR: 5e-05 #############
+epoch 389's auc score: 0.2640 | best auc score: 0.5902
+############# Starting Epoch 390 | LR: 5e-05 #############
+epoch 390's auc score: 0.2868 | best auc score: 0.5902
+############# Starting Epoch 391 | LR: 5e-05 #############
+epoch 391's auc score: 0.3345 | best auc score: 0.5902
+############# Starting Epoch 392 | LR: 5e-05 #############
+epoch 392's auc score: 0.2993 | best auc score: 0.5902
+############# Starting Epoch 393 | LR: 5e-05 #############
+epoch 393's auc score: 0.3222 | best auc score: 0.5902
+############# Starting Epoch 394 | LR: 5e-05 #############
+epoch 394's auc score: 0.3441 | best auc score: 0.5902
+############# Starting Epoch 395 | LR: 5e-05 #############
+epoch 395's auc score: 0.2913 | best auc score: 0.5902
+############# Starting Epoch 396 | LR: 5e-05 #############
+epoch 396's auc score: 0.2827 | best auc score: 0.5902
+############# Starting Epoch 397 | LR: 5e-05 #############
+epoch 397's auc score: 0.2906 | best auc score: 0.5902
+############# Starting Epoch 398 | LR: 5e-05 #############
+epoch 398's auc score: 0.3280 | best auc score: 0.5902
+############# Starting Epoch 399 | LR: 5e-05 #############
+epoch 399's auc score: 0.3230 | best auc score: 0.5902
+############# Starting Epoch 400 | LR: 5e-05 #############
+epoch 400's auc score: 0.3033 | best auc score: 0.5902
+############# Starting Epoch 401 | LR: 5e-05 #############
+epoch 401's auc score: 0.3038 | best auc score: 0.5902
+############# Starting Epoch 402 | LR: 5e-05 #############
+epoch 402's auc score: 0.3400 | best auc score: 0.5902
+############# Starting Epoch 403 | LR: 5e-05 #############
+epoch 403's auc score: 0.3283 | best auc score: 0.5902
+############# Starting Epoch 404 | LR: 5e-05 #############
+epoch 404's auc score: 0.3186 | best auc score: 0.5902
+############# Starting Epoch 405 | LR: 5e-05 #############
+epoch 405's auc score: 0.3018 | best auc score: 0.5902
+############# Starting Epoch 406 | LR: 5e-05 #############
+epoch 406's auc score: 0.2923 | best auc score: 0.5902
+############# Starting Epoch 407 | LR: 5e-05 #############
+epoch 407's auc score: 0.2800 | best auc score: 0.5902
+############# Starting Epoch 408 | LR: 5e-05 #############
+epoch 408's auc score: 0.2729 | best auc score: 0.5902
+############# Starting Epoch 409 | LR: 5e-05 #############
+epoch 409's auc score: 0.2791 | best auc score: 0.5902
+############# Starting Epoch 410 | LR: 5e-05 #############
+epoch 410's auc score: 0.2701 | best auc score: 0.5902
+############# Starting Epoch 411 | LR: 5e-05 #############
+epoch 411's auc score: 0.2563 | best auc score: 0.5902
+############# Starting Epoch 412 | LR: 5e-05 #############
+epoch 412's auc score: 0.2486 | best auc score: 0.5902
+############# Starting Epoch 413 | LR: 5e-05 #############
+epoch 413's auc score: 0.2739 | best auc score: 0.5902
+############# Starting Epoch 414 | LR: 5e-05 #############
+epoch 414's auc score: 0.3067 | best auc score: 0.5902
+############# Starting Epoch 415 | LR: 5e-05 #############
+epoch 415's auc score: 0.3267 | best auc score: 0.5902
+############# Starting Epoch 416 | LR: 5e-05 #############
+epoch 416's auc score: 0.3170 | best auc score: 0.5902
+############# Starting Epoch 417 | LR: 5e-05 #############
+epoch 417's auc score: 0.3031 | best auc score: 0.5902
+############# Starting Epoch 418 | LR: 5e-05 #############
+epoch 418's auc score: 0.3168 | best auc score: 0.5902
+############# Starting Epoch 419 | LR: 5e-05 #############
+epoch 419's auc score: 0.3827 | best auc score: 0.5902
+############# Starting Epoch 420 | LR: 5e-05 #############
+epoch 420's auc score: 0.4751 | best auc score: 0.5902
+############# Starting Epoch 421 | LR: 5e-05 #############
+epoch 421's auc score: 0.4085 | best auc score: 0.5902
+############# Starting Epoch 422 | LR: 5e-05 #############
+epoch 422's auc score: 0.3089 | best auc score: 0.5902
+############# Starting Epoch 423 | LR: 5e-05 #############
+epoch 423's auc score: 0.3592 | best auc score: 0.5902
+############# Starting Epoch 424 | LR: 5e-05 #############
+epoch 424's auc score: 0.3216 | best auc score: 0.5902
+############# Starting Epoch 425 | LR: 5e-05 #############
+epoch 425's auc score: 0.2957 | best auc score: 0.5902
+############# Starting Epoch 426 | LR: 5e-05 #############
+epoch 426's auc score: 0.2419 | best auc score: 0.5902
+############# Starting Epoch 427 | LR: 5e-05 #############
+epoch 427's auc score: 0.2858 | best auc score: 0.5902
+############# Starting Epoch 428 | LR: 5e-05 #############
+epoch 428's auc score: 0.2842 | best auc score: 0.5902
+############# Starting Epoch 429 | LR: 5e-05 #############
+epoch 429's auc score: 0.2970 | best auc score: 0.5902
+############# Starting Epoch 430 | LR: 5e-05 #############
+epoch 430's auc score: 0.3415 | best auc score: 0.5902
+############# Starting Epoch 431 | LR: 5e-05 #############
+epoch 431's auc score: 0.2482 | best auc score: 0.5902
+############# Starting Epoch 432 | LR: 5e-05 #############
+epoch 432's auc score: 0.2565 | best auc score: 0.5902
+############# Starting Epoch 433 | LR: 5e-05 #############
+epoch 433's auc score: 0.2972 | best auc score: 0.5902
+############# Starting Epoch 434 | LR: 5e-05 #############
+epoch 434's auc score: 0.4374 | best auc score: 0.5902
+############# Starting Epoch 435 | LR: 5e-05 #############
+epoch 435's auc score: 0.2941 | best auc score: 0.5902
+############# Starting Epoch 436 | LR: 5e-05 #############
+epoch 436's auc score: 0.2816 | best auc score: 0.5902
+############# Starting Epoch 437 | LR: 5e-05 #############
+epoch 437's auc score: 0.2913 | best auc score: 0.5902
+############# Starting Epoch 438 | LR: 5e-05 #############
+epoch 438's auc score: 0.2881 | best auc score: 0.5902
+############# Starting Epoch 439 | LR: 5e-05 #############
+epoch 439's auc score: 0.3132 | best auc score: 0.5902
+############# Starting Epoch 440 | LR: 5e-05 #############
+epoch 440's auc score: 0.3241 | best auc score: 0.5902
+############# Starting Epoch 441 | LR: 5e-05 #############
+epoch 441's auc score: 0.3350 | best auc score: 0.5902
+############# Starting Epoch 442 | LR: 5e-05 #############
+epoch 442's auc score: 0.3379 | best auc score: 0.5902
+############# Starting Epoch 443 | LR: 5e-05 #############
+epoch 443's auc score: 0.3629 | best auc score: 0.5902
+############# Starting Epoch 444 | LR: 5e-05 #############
+epoch 444's auc score: 0.3804 | best auc score: 0.5902
+############# Starting Epoch 445 | LR: 5e-05 #############
+epoch 445's auc score: 0.4078 | best auc score: 0.5902
+############# Starting Epoch 446 | LR: 5e-05 #############
+epoch 446's auc score: 0.4568 | best auc score: 0.5902
+############# Starting Epoch 447 | LR: 5e-05 #############
+epoch 447's auc score: 0.4167 | best auc score: 0.5902
+############# Starting Epoch 448 | LR: 5e-05 #############
+epoch 448's auc score: 0.3164 | best auc score: 0.5902
+############# Starting Epoch 449 | LR: 5e-05 #############
+epoch 449's auc score: 0.2700 | best auc score: 0.5902
+############# Starting Epoch 450 | LR: 5e-05 #############
+epoch 450's auc score: 0.2615 | best auc score: 0.5902
+############# Starting Epoch 451 | LR: 5e-05 #############
+epoch 451's auc score: 0.2866 | best auc score: 0.5902
+############# Starting Epoch 452 | LR: 5e-05 #############
+epoch 452's auc score: 0.3383 | best auc score: 0.5902
+############# Starting Epoch 453 | LR: 5e-05 #############
+epoch 453's auc score: 0.3219 | best auc score: 0.5902
+############# Starting Epoch 454 | LR: 5e-05 #############
+epoch 454's auc score: 0.3647 | best auc score: 0.5902
+############# Starting Epoch 455 | LR: 5e-05 #############
+epoch 455's auc score: 0.3789 | best auc score: 0.5902
+############# Starting Epoch 456 | LR: 5e-05 #############
+epoch 456's auc score: 0.3287 | best auc score: 0.5902
+############# Starting Epoch 457 | LR: 5e-05 #############
+epoch 457's auc score: 0.3131 | best auc score: 0.5902
+############# Starting Epoch 458 | LR: 5e-05 #############
+epoch 458's auc score: 0.2721 | best auc score: 0.5902
+############# Starting Epoch 459 | LR: 5e-05 #############
+epoch 459's auc score: 0.2776 | best auc score: 0.5902
+############# Starting Epoch 460 | LR: 5e-05 #############
+epoch 460's auc score: 0.3208 | best auc score: 0.5902
+############# Starting Epoch 461 | LR: 5e-05 #############
+epoch 461's auc score: 0.3593 | best auc score: 0.5902
+############# Starting Epoch 462 | LR: 5e-05 #############
+epoch 462's auc score: 0.3833 | best auc score: 0.5902
+############# Starting Epoch 463 | LR: 5e-05 #############
+epoch 463's auc score: 0.3033 | best auc score: 0.5902
+############# Starting Epoch 464 | LR: 5e-05 #############
+epoch 464's auc score: 0.3116 | best auc score: 0.5902
+############# Starting Epoch 465 | LR: 5e-05 #############
+epoch 465's auc score: 0.3039 | best auc score: 0.5902
+############# Starting Epoch 466 | LR: 5e-05 #############
+epoch 466's auc score: 0.3417 | best auc score: 0.5902
+############# Starting Epoch 467 | LR: 5e-05 #############
+epoch 467's auc score: 0.4729 | best auc score: 0.5902
+############# Starting Epoch 468 | LR: 5e-05 #############
+epoch 468's auc score: 0.4371 | best auc score: 0.5902
+############# Starting Epoch 469 | LR: 5e-05 #############
+epoch 469's auc score: 0.5790 | best auc score: 0.5902
+############# Starting Epoch 470 | LR: 5e-05 #############
+epoch 470's auc score: 0.4845 | best auc score: 0.5902
+############# Starting Epoch 471 | LR: 5e-05 #############
+epoch 471's auc score: 0.3642 | best auc score: 0.5902
+############# Starting Epoch 472 | LR: 5e-05 #############
+epoch 472's auc score: 0.3727 | best auc score: 0.5902
+############# Starting Epoch 473 | LR: 5e-05 #############
+epoch 473's auc score: 0.3799 | best auc score: 0.5902
+############# Starting Epoch 474 | LR: 5e-05 #############
+epoch 474's auc score: 0.3757 | best auc score: 0.5902
+############# Starting Epoch 475 | LR: 5e-05 #############
+epoch 475's auc score: 0.5292 | best auc score: 0.5902
+############# Starting Epoch 476 | LR: 5e-05 #############
+epoch 476's auc score: 0.5140 | best auc score: 0.5902
+############# Starting Epoch 477 | LR: 5e-05 #############
+epoch 477's auc score: 0.4488 | best auc score: 0.5902
+############# Starting Epoch 478 | LR: 5e-05 #############
+epoch 478's auc score: 0.5133 | best auc score: 0.5902
+############# Starting Epoch 479 | LR: 5e-05 #############
+epoch 479's auc score: 0.4465 | best auc score: 0.5902
+############# Starting Epoch 480 | LR: 5e-05 #############
+epoch 480's auc score: 0.4410 | best auc score: 0.5902
+############# Starting Epoch 481 | LR: 5e-05 #############
+epoch 481's auc score: 0.3801 | best auc score: 0.5902
+############# Starting Epoch 482 | LR: 5e-05 #############
+epoch 482's auc score: 0.3808 | best auc score: 0.5902
+############# Starting Epoch 483 | LR: 5e-05 #############
+epoch 483's auc score: 0.3296 | best auc score: 0.5902
+############# Starting Epoch 484 | LR: 5e-05 #############
+epoch 484's auc score: 0.2870 | best auc score: 0.5902
+############# Starting Epoch 485 | LR: 5e-05 #############
+epoch 485's auc score: 0.3004 | best auc score: 0.5902
+############# Starting Epoch 486 | LR: 5e-05 #############
+epoch 486's auc score: 0.3152 | best auc score: 0.5902
+############# Starting Epoch 487 | LR: 5e-05 #############
+epoch 487's auc score: 0.3129 | best auc score: 0.5902
+############# Starting Epoch 488 | LR: 5e-05 #############
+epoch 488's auc score: 0.2962 | best auc score: 0.5902
+############# Starting Epoch 489 | LR: 5e-05 #############
+epoch 489's auc score: 0.2788 | best auc score: 0.5902
+############# Starting Epoch 490 | LR: 5e-05 #############
+epoch 490's auc score: 0.3520 | best auc score: 0.5902
+############# Starting Epoch 491 | LR: 5e-05 #############
+epoch 491's auc score: 0.3659 | best auc score: 0.5902
+############# Starting Epoch 492 | LR: 5e-05 #############
+epoch 492's auc score: 0.3467 | best auc score: 0.5902
+############# Starting Epoch 493 | LR: 5e-05 #############
+epoch 493's auc score: 0.3637 | best auc score: 0.5902
+############# Starting Epoch 494 | LR: 5e-05 #############
+epoch 494's auc score: 0.3416 | best auc score: 0.5902
+############# Starting Epoch 495 | LR: 5e-05 #############
+epoch 495's auc score: 0.3229 | best auc score: 0.5902
+############# Starting Epoch 496 | LR: 5e-05 #############
+epoch 496's auc score: 0.3329 | best auc score: 0.5902
+############# Starting Epoch 497 | LR: 5e-05 #############
+epoch 497's auc score: 0.2599 | best auc score: 0.5902
+############# Starting Epoch 498 | LR: 5e-05 #############
+epoch 498's auc score: 0.2857 | best auc score: 0.5902
+############# Starting Epoch 499 | LR: 5e-05 #############
+epoch 499's auc score: 0.3068 | best auc score: 0.5902
+############# Starting Epoch 500 | LR: 5e-05 #############
+epoch 500's auc score: 0.2973 | best auc score: 0.5902
+############# Starting Epoch 501 | LR: 5e-05 #############
+epoch 501's auc score: 0.2973 | best auc score: 0.5902
+############# Starting Epoch 502 | LR: 5e-05 #############
+epoch 502's auc score: 0.2824 | best auc score: 0.5902
+############# Starting Epoch 503 | LR: 5e-05 #############
+epoch 503's auc score: 0.2763 | best auc score: 0.5902
+############# Starting Epoch 504 | LR: 5e-05 #############
+epoch 504's auc score: 0.2514 | best auc score: 0.5902
+############# Starting Epoch 505 | LR: 5e-05 #############
+epoch 505's auc score: 0.2352 | best auc score: 0.5902
+############# Starting Epoch 506 | LR: 5e-05 #############
+epoch 506's auc score: 0.2419 | best auc score: 0.5902
+############# Starting Epoch 507 | LR: 5e-05 #############
+epoch 507's auc score: 0.2272 | best auc score: 0.5902
+############# Starting Epoch 508 | LR: 5e-05 #############
+epoch 508's auc score: 0.2605 | best auc score: 0.5902
+############# Starting Epoch 509 | LR: 5e-05 #############
+epoch 509's auc score: 0.2761 | best auc score: 0.5902
+############# Starting Epoch 510 | LR: 5e-05 #############
+epoch 510's auc score: 0.2876 | best auc score: 0.5902
+############# Starting Epoch 511 | LR: 5e-05 #############
+epoch 511's auc score: 0.2773 | best auc score: 0.5902
+############# Starting Epoch 512 | LR: 5e-05 #############
+epoch 512's auc score: 0.2990 | best auc score: 0.5902
+############# Starting Epoch 513 | LR: 5e-05 #############
+epoch 513's auc score: 0.3626 | best auc score: 0.5902
+############# Starting Epoch 514 | LR: 5e-05 #############
+epoch 514's auc score: 0.3417 | best auc score: 0.5902
+############# Starting Epoch 515 | LR: 5e-05 #############
+epoch 515's auc score: 0.3144 | best auc score: 0.5902
+############# Starting Epoch 516 | LR: 5e-05 #############
+epoch 516's auc score: 0.3113 | best auc score: 0.5902
+############# Starting Epoch 517 | LR: 5e-05 #############
+epoch 517's auc score: 0.3141 | best auc score: 0.5902
+############# Starting Epoch 518 | LR: 5e-05 #############
+epoch 518's auc score: 0.4323 | best auc score: 0.5902
+############# Starting Epoch 519 | LR: 5e-05 #############
+epoch 519's auc score: 0.3370 | best auc score: 0.5902
+############# Starting Epoch 520 | LR: 5e-05 #############
+epoch 520's auc score: 0.3199 | best auc score: 0.5902
+############# Starting Epoch 521 | LR: 5e-05 #############
+epoch 521's auc score: 0.3461 | best auc score: 0.5902
+############# Starting Epoch 522 | LR: 5e-05 #############
+epoch 522's auc score: 0.3291 | best auc score: 0.5902
+############# Starting Epoch 523 | LR: 5e-05 #############
+epoch 523's auc score: 0.2951 | best auc score: 0.5902
+############# Starting Epoch 524 | LR: 5e-05 #############
+epoch 524's auc score: 0.2949 | best auc score: 0.5902
+############# Starting Epoch 525 | LR: 5e-05 #############
+epoch 525's auc score: 0.2769 | best auc score: 0.5902
+############# Starting Epoch 526 | LR: 5e-05 #############
+epoch 526's auc score: 0.3131 | best auc score: 0.5902
+############# Starting Epoch 527 | LR: 5e-05 #############
+epoch 527's auc score: 0.3043 | best auc score: 0.5902
+############# Starting Epoch 528 | LR: 5e-05 #############
+epoch 528's auc score: 0.2772 | best auc score: 0.5902
+############# Starting Epoch 529 | LR: 5e-05 #############
+epoch 529's auc score: 0.2910 | best auc score: 0.5902
+############# Starting Epoch 530 | LR: 5e-05 #############
+epoch 530's auc score: 0.3097 | best auc score: 0.5902
+############# Starting Epoch 531 | LR: 5e-05 #############
+epoch 531's auc score: 0.2943 | best auc score: 0.5902
+############# Starting Epoch 532 | LR: 5e-05 #############
+epoch 532's auc score: 0.3308 | best auc score: 0.5902
+############# Starting Epoch 533 | LR: 5e-05 #############
+epoch 533's auc score: 0.3711 | best auc score: 0.5902
+############# Starting Epoch 534 | LR: 5e-05 #############
+epoch 534's auc score: 0.4293 | best auc score: 0.5902
+############# Starting Epoch 535 | LR: 5e-05 #############
+epoch 535's auc score: 0.3378 | best auc score: 0.5902
+############# Starting Epoch 536 | LR: 5e-05 #############
+epoch 536's auc score: 0.3506 | best auc score: 0.5902
+############# Starting Epoch 537 | LR: 5e-05 #############
+epoch 537's auc score: 0.3194 | best auc score: 0.5902
+############# Starting Epoch 538 | LR: 5e-05 #############
+epoch 538's auc score: 0.3001 | best auc score: 0.5902
+############# Starting Epoch 539 | LR: 5e-05 #############
+epoch 539's auc score: 0.2959 | best auc score: 0.5902
+############# Starting Epoch 540 | LR: 5e-05 #############
+epoch 540's auc score: 0.2959 | best auc score: 0.5902
+############# Starting Epoch 541 | LR: 5e-05 #############
+epoch 541's auc score: 0.3007 | best auc score: 0.5902
+############# Starting Epoch 542 | LR: 5e-05 #############
+epoch 542's auc score: 0.2992 | best auc score: 0.5902
+############# Starting Epoch 543 | LR: 5e-05 #############
+epoch 543's auc score: 0.3077 | best auc score: 0.5902
+############# Starting Epoch 544 | LR: 5e-05 #############
+epoch 544's auc score: 0.3289 | best auc score: 0.5902
+############# Starting Epoch 545 | LR: 5e-05 #############
+epoch 545's auc score: 0.3089 | best auc score: 0.5902
+############# Starting Epoch 546 | LR: 5e-05 #############
+epoch 546's auc score: 0.3197 | best auc score: 0.5902
+############# Starting Epoch 547 | LR: 5e-05 #############
+epoch 547's auc score: 0.3608 | best auc score: 0.5902
+############# Starting Epoch 548 | LR: 5e-05 #############
+epoch 548's auc score: 0.3484 | best auc score: 0.5902
+############# Starting Epoch 549 | LR: 5e-05 #############
+epoch 549's auc score: 0.3248 | best auc score: 0.5902
+############# Starting Epoch 550 | LR: 5e-05 #############
+epoch 550's auc score: 0.2979 | best auc score: 0.5902
+############# Starting Epoch 551 | LR: 5e-05 #############
+epoch 551's auc score: 0.3445 | best auc score: 0.5902
+############# Starting Epoch 552 | LR: 5e-05 #############
+epoch 552's auc score: 0.4568 | best auc score: 0.5902
+############# Starting Epoch 553 | LR: 5e-05 #############
+epoch 553's auc score: 0.4596 | best auc score: 0.5902
+############# Starting Epoch 554 | LR: 5e-05 #############
+epoch 554's auc score: 0.4054 | best auc score: 0.5902
+############# Starting Epoch 555 | LR: 5e-05 #############
+epoch 555's auc score: 0.3898 | best auc score: 0.5902
+############# Starting Epoch 556 | LR: 5e-05 #############
+epoch 556's auc score: 0.3899 | best auc score: 0.5902
+############# Starting Epoch 557 | LR: 5e-05 #############
+epoch 557's auc score: 0.4536 | best auc score: 0.5902
+############# Starting Epoch 558 | LR: 5e-05 #############
+epoch 558's auc score: 0.4884 | best auc score: 0.5902
+############# Starting Epoch 559 | LR: 5e-05 #############
+epoch 559's auc score: 0.4344 | best auc score: 0.5902
+############# Starting Epoch 560 | LR: 5e-05 #############
+epoch 560's auc score: 0.3330 | best auc score: 0.5902
+############# Starting Epoch 561 | LR: 5e-05 #############
+epoch 561's auc score: 0.3340 | best auc score: 0.5902
+############# Starting Epoch 562 | LR: 5e-05 #############
+epoch 562's auc score: 0.3773 | best auc score: 0.5902
+############# Starting Epoch 563 | LR: 5e-05 #############
+epoch 563's auc score: 0.4029 | best auc score: 0.5902
+############# Starting Epoch 564 | LR: 5e-05 #############
+epoch 564's auc score: 0.4331 | best auc score: 0.5902
+############# Starting Epoch 565 | LR: 5e-05 #############
+epoch 565's auc score: 0.3637 | best auc score: 0.5902
+############# Starting Epoch 566 | LR: 5e-05 #############
+epoch 566's auc score: 0.3376 | best auc score: 0.5902
+############# Starting Epoch 567 | LR: 5e-05 #############
+epoch 567's auc score: 0.3357 | best auc score: 0.5902
+############# Starting Epoch 568 | LR: 5e-05 #############
+epoch 568's auc score: 0.3183 | best auc score: 0.5902
+############# Starting Epoch 569 | LR: 5e-05 #############
+epoch 569's auc score: 0.3524 | best auc score: 0.5902
+############# Starting Epoch 570 | LR: 5e-05 #############
+epoch 570's auc score: 0.3892 | best auc score: 0.5902
+############# Starting Epoch 571 | LR: 5e-05 #############
+epoch 571's auc score: 0.3825 | best auc score: 0.5902
+############# Starting Epoch 572 | LR: 5e-05 #############
+epoch 572's auc score: 0.3654 | best auc score: 0.5902
+############# Starting Epoch 573 | LR: 5e-05 #############
+epoch 573's auc score: 0.3467 | best auc score: 0.5902
+############# Starting Epoch 574 | LR: 5e-05 #############
+epoch 574's auc score: 0.4165 | best auc score: 0.5902
+############# Starting Epoch 575 | LR: 5e-05 #############
+epoch 575's auc score: 0.3320 | best auc score: 0.5902
+############# Starting Epoch 576 | LR: 5e-05 #############
+epoch 576's auc score: 0.3461 | best auc score: 0.5902
+############# Starting Epoch 577 | LR: 5e-05 #############
+epoch 577's auc score: 0.3332 | best auc score: 0.5902
+############# Starting Epoch 578 | LR: 5e-05 #############
+epoch 578's auc score: 0.3137 | best auc score: 0.5902
+############# Starting Epoch 579 | LR: 5e-05 #############
+epoch 579's auc score: 0.3190 | best auc score: 0.5902
+############# Starting Epoch 580 | LR: 5e-05 #############
+epoch 580's auc score: 0.3530 | best auc score: 0.5902
+############# Starting Epoch 581 | LR: 5e-05 #############
+epoch 581's auc score: 0.3534 | best auc score: 0.5902
+############# Starting Epoch 582 | LR: 5e-05 #############
+epoch 582's auc score: 0.3635 | best auc score: 0.5902
+############# Starting Epoch 583 | LR: 5e-05 #############
+epoch 583's auc score: 0.2928 | best auc score: 0.5902
+############# Starting Epoch 584 | LR: 5e-05 #############
+epoch 584's auc score: 0.2765 | best auc score: 0.5902
+############# Starting Epoch 585 | LR: 5e-05 #############
+epoch 585's auc score: 0.2822 | best auc score: 0.5902
+############# Starting Epoch 586 | LR: 5e-05 #############
+epoch 586's auc score: 0.2844 | best auc score: 0.5902
+############# Starting Epoch 587 | LR: 5e-05 #############
+epoch 587's auc score: 0.3120 | best auc score: 0.5902
+############# Starting Epoch 588 | LR: 5e-05 #############
+epoch 588's auc score: 0.2880 | best auc score: 0.5902
+############# Starting Epoch 589 | LR: 5e-05 #############
+epoch 589's auc score: 0.2692 | best auc score: 0.5902
+############# Starting Epoch 590 | LR: 5e-05 #############
+epoch 590's auc score: 0.2697 | best auc score: 0.5902
+############# Starting Epoch 591 | LR: 5e-05 #############
+epoch 591's auc score: 0.2723 | best auc score: 0.5902
+############# Starting Epoch 592 | LR: 5e-05 #############
+epoch 592's auc score: 0.2988 | best auc score: 0.5902
+############# Starting Epoch 593 | LR: 5e-05 #############
+epoch 593's auc score: 0.3311 | best auc score: 0.5902
+############# Starting Epoch 594 | LR: 5e-05 #############
+epoch 594's auc score: 0.2929 | best auc score: 0.5902
+############# Starting Epoch 595 | LR: 5e-05 #############
+epoch 595's auc score: 0.2784 | best auc score: 0.5902
+############# Starting Epoch 596 | LR: 5e-05 #############
+epoch 596's auc score: 0.2785 | best auc score: 0.5902
+############# Starting Epoch 597 | LR: 5e-05 #############
+epoch 597's auc score: 0.2617 | best auc score: 0.5902
+############# Starting Epoch 598 | LR: 5e-05 #############
+epoch 598's auc score: 0.2547 | best auc score: 0.5902
+############# Starting Epoch 599 | LR: 5e-05 #############
+epoch 599's auc score: 0.2749 | best auc score: 0.5902
+############# Starting Epoch 600 | LR: 5e-05 #############
+epoch 600's auc score: 0.2882 | best auc score: 0.5902
+############# Starting Epoch 601 | LR: 5e-05 #############
+epoch 601's auc score: 0.2996 | best auc score: 0.5902
+############# Starting Epoch 602 | LR: 5e-05 #############
+epoch 602's auc score: 0.2842 | best auc score: 0.5902
+############# Starting Epoch 603 | LR: 5e-05 #############
+epoch 603's auc score: 0.3271 | best auc score: 0.5902
+############# Starting Epoch 604 | LR: 5e-05 #############
+epoch 604's auc score: 0.3001 | best auc score: 0.5902
+############# Starting Epoch 605 | LR: 5e-05 #############
+epoch 605's auc score: 0.2842 | best auc score: 0.5902
+############# Starting Epoch 606 | LR: 5e-05 #############
+epoch 606's auc score: 0.2846 | best auc score: 0.5902
+############# Starting Epoch 607 | LR: 5e-05 #############
+epoch 607's auc score: 0.2777 | best auc score: 0.5902
+############# Starting Epoch 608 | LR: 5e-05 #############
+epoch 608's auc score: 0.2731 | best auc score: 0.5902
+############# Starting Epoch 609 | LR: 5e-05 #############
+epoch 609's auc score: 0.2724 | best auc score: 0.5902
+############# Starting Epoch 610 | LR: 5e-05 #############
+epoch 610's auc score: 0.2785 | best auc score: 0.5902
+############# Starting Epoch 611 | LR: 5e-05 #############
+epoch 611's auc score: 0.2696 | best auc score: 0.5902
+############# Starting Epoch 612 | LR: 5e-05 #############
+epoch 612's auc score: 0.2931 | best auc score: 0.5902
+############# Starting Epoch 613 | LR: 5e-05 #############
+epoch 613's auc score: 0.2891 | best auc score: 0.5902
+############# Starting Epoch 614 | LR: 5e-05 #############
+epoch 614's auc score: 0.3850 | best auc score: 0.5902
+############# Starting Epoch 615 | LR: 5e-05 #############
+epoch 615's auc score: 0.3266 | best auc score: 0.5902
+############# Starting Epoch 616 | LR: 5e-05 #############
+epoch 616's auc score: 0.3226 | best auc score: 0.5902
+############# Starting Epoch 617 | LR: 5e-05 #############
+epoch 617's auc score: 0.3019 | best auc score: 0.5902
+############# Starting Epoch 618 | LR: 5e-05 #############
+epoch 618's auc score: 0.2980 | best auc score: 0.5902
+############# Starting Epoch 619 | LR: 5e-05 #############
+epoch 619's auc score: 0.2949 | best auc score: 0.5902
+############# Starting Epoch 620 | LR: 5e-05 #############
+epoch 620's auc score: 0.4697 | best auc score: 0.5902
+############# Starting Epoch 621 | LR: 5e-05 #############
+epoch 621's auc score: 0.5405 | best auc score: 0.5902
+############# Starting Epoch 622 | LR: 5e-05 #############
+epoch 622's auc score: 0.4682 | best auc score: 0.5902
+############# Starting Epoch 623 | LR: 5e-05 #############
+epoch 623's auc score: 0.4456 | best auc score: 0.5902
+############# Starting Epoch 624 | LR: 5e-05 #############
+epoch 624's auc score: 0.3137 | best auc score: 0.5902
+############# Starting Epoch 625 | LR: 5e-05 #############
+epoch 625's auc score: 0.3096 | best auc score: 0.5902
+############# Starting Epoch 626 | LR: 5e-05 #############
+epoch 626's auc score: 0.3132 | best auc score: 0.5902
+############# Starting Epoch 627 | LR: 5e-05 #############
+epoch 627's auc score: 0.3036 | best auc score: 0.5902
+############# Starting Epoch 628 | LR: 5e-05 #############
+epoch 628's auc score: 0.2856 | best auc score: 0.5902
+############# Starting Epoch 629 | LR: 5e-05 #############
+epoch 629's auc score: 0.2935 | best auc score: 0.5902
+############# Starting Epoch 630 | LR: 5e-05 #############
+epoch 630's auc score: 0.2826 | best auc score: 0.5902
+############# Starting Epoch 631 | LR: 5e-05 #############
+epoch 631's auc score: 0.3074 | best auc score: 0.5902
+############# Starting Epoch 632 | LR: 5e-05 #############
+epoch 632's auc score: 0.3071 | best auc score: 0.5902
+############# Starting Epoch 633 | LR: 5e-05 #############
+epoch 633's auc score: 0.3193 | best auc score: 0.5902
+############# Starting Epoch 634 | LR: 5e-05 #############
+epoch 634's auc score: 0.2830 | best auc score: 0.5902
+############# Starting Epoch 635 | LR: 5e-05 #############
+epoch 635's auc score: 0.2667 | best auc score: 0.5902
+############# Starting Epoch 636 | LR: 5e-05 #############
+epoch 636's auc score: 0.2876 | best auc score: 0.5902
+############# Starting Epoch 637 | LR: 5e-05 #############
+epoch 637's auc score: 0.2860 | best auc score: 0.5902
+############# Starting Epoch 638 | LR: 5e-05 #############
+epoch 638's auc score: 0.3550 | best auc score: 0.5902
+############# Starting Epoch 639 | LR: 5e-05 #############
+epoch 639's auc score: 0.3050 | best auc score: 0.5902
+############# Starting Epoch 640 | LR: 5e-05 #############
+epoch 640's auc score: 0.3408 | best auc score: 0.5902
+############# Starting Epoch 641 | LR: 5e-05 #############
+epoch 641's auc score: 0.2967 | best auc score: 0.5902
+############# Starting Epoch 642 | LR: 5e-05 #############
+epoch 642's auc score: 0.3026 | best auc score: 0.5902
+############# Starting Epoch 643 | LR: 5e-05 #############
+epoch 643's auc score: 0.2863 | best auc score: 0.5902
+############# Starting Epoch 644 | LR: 5e-05 #############
+epoch 644's auc score: 0.2899 | best auc score: 0.5902
+############# Starting Epoch 645 | LR: 5e-05 #############
+epoch 645's auc score: 0.2942 | best auc score: 0.5902
+############# Starting Epoch 646 | LR: 5e-05 #############
+epoch 646's auc score: 0.2952 | best auc score: 0.5902
+############# Starting Epoch 647 | LR: 5e-05 #############
+epoch 647's auc score: 0.3085 | best auc score: 0.5902
+############# Starting Epoch 648 | LR: 5e-05 #############
+epoch 648's auc score: 0.3543 | best auc score: 0.5902
+############# Starting Epoch 649 | LR: 5e-05 #############
+epoch 649's auc score: 0.3228 | best auc score: 0.5902
+############# Starting Epoch 650 | LR: 5e-05 #############
+epoch 650's auc score: 0.3751 | best auc score: 0.5902
+############# Starting Epoch 651 | LR: 5e-05 #############
+epoch 651's auc score: 0.4112 | best auc score: 0.5902
+############# Starting Epoch 652 | LR: 5e-05 #############
+epoch 652's auc score: 0.4470 | best auc score: 0.5902
+############# Starting Epoch 653 | LR: 5e-05 #############
+epoch 653's auc score: 0.4560 | best auc score: 0.5902
+############# Starting Epoch 654 | LR: 5e-05 #############
+epoch 654's auc score: 0.4701 | best auc score: 0.5902
+############# Starting Epoch 655 | LR: 5e-05 #############
+epoch 655's auc score: 0.4772 | best auc score: 0.5902
+############# Starting Epoch 656 | LR: 5e-05 #############
+epoch 656's auc score: 0.3593 | best auc score: 0.5902
+############# Starting Epoch 657 | LR: 5e-05 #############
+epoch 657's auc score: 0.3947 | best auc score: 0.5902
+############# Starting Epoch 658 | LR: 5e-05 #############
+epoch 658's auc score: 0.3346 | best auc score: 0.5902
+############# Starting Epoch 659 | LR: 5e-05 #############
+epoch 659's auc score: 0.2949 | best auc score: 0.5902
+############# Starting Epoch 660 | LR: 5e-05 #############
+epoch 660's auc score: 0.2725 | best auc score: 0.5902
+############# Starting Epoch 661 | LR: 5e-05 #############
+epoch 661's auc score: 0.2630 | best auc score: 0.5902
+############# Starting Epoch 662 | LR: 5e-05 #############
+epoch 662's auc score: 0.2731 | best auc score: 0.5902
+############# Starting Epoch 663 | LR: 5e-05 #############
+epoch 663's auc score: 0.4254 | best auc score: 0.5902
+############# Starting Epoch 664 | LR: 5e-05 #############
+epoch 664's auc score: 0.3880 | best auc score: 0.5902
+############# Starting Epoch 665 | LR: 5e-05 #############
+epoch 665's auc score: 0.4010 | best auc score: 0.5902
+############# Starting Epoch 666 | LR: 5e-05 #############
+epoch 666's auc score: 0.3054 | best auc score: 0.5902
+############# Starting Epoch 667 | LR: 5e-05 #############
+epoch 667's auc score: 0.2691 | best auc score: 0.5902
+############# Starting Epoch 668 | LR: 5e-05 #############
+epoch 668's auc score: 0.2893 | best auc score: 0.5902
+############# Starting Epoch 669 | LR: 5e-05 #############
+epoch 669's auc score: 0.2763 | best auc score: 0.5902
+############# Starting Epoch 670 | LR: 5e-05 #############
+epoch 670's auc score: 0.2665 | best auc score: 0.5902
+############# Starting Epoch 671 | LR: 5e-05 #############
+epoch 671's auc score: 0.3031 | best auc score: 0.5902
+############# Starting Epoch 672 | LR: 5e-05 #############
+epoch 672's auc score: 0.3598 | best auc score: 0.5902
+############# Starting Epoch 673 | LR: 5e-05 #############
+epoch 673's auc score: 0.2948 | best auc score: 0.5902
+############# Starting Epoch 674 | LR: 5e-05 #############
+epoch 674's auc score: 0.2770 | best auc score: 0.5902
+############# Starting Epoch 675 | LR: 5e-05 #############
+epoch 675's auc score: 0.3319 | best auc score: 0.5902
+############# Starting Epoch 676 | LR: 5e-05 #############
+epoch 676's auc score: 0.3472 | best auc score: 0.5902
+############# Starting Epoch 677 | LR: 5e-05 #############
+epoch 677's auc score: 0.3726 | best auc score: 0.5902
+############# Starting Epoch 678 | LR: 5e-05 #############
+epoch 678's auc score: 0.3808 | best auc score: 0.5902
+############# Starting Epoch 679 | LR: 5e-05 #############
+epoch 679's auc score: 0.3479 | best auc score: 0.5902
+############# Starting Epoch 680 | LR: 5e-05 #############
+epoch 680's auc score: 0.2925 | best auc score: 0.5902
+############# Starting Epoch 681 | LR: 5e-05 #############
+epoch 681's auc score: 0.2820 | best auc score: 0.5902
+############# Starting Epoch 682 | LR: 5e-05 #############
+epoch 682's auc score: 0.2985 | best auc score: 0.5902
+############# Starting Epoch 683 | LR: 5e-05 #############
+epoch 683's auc score: 0.2551 | best auc score: 0.5902
+############# Starting Epoch 684 | LR: 5e-05 #############
+epoch 684's auc score: 0.2399 | best auc score: 0.5902
+############# Starting Epoch 685 | LR: 5e-05 #############
+epoch 685's auc score: 0.2965 | best auc score: 0.5902
+############# Starting Epoch 686 | LR: 5e-05 #############
+epoch 686's auc score: 0.4327 | best auc score: 0.5902
+############# Starting Epoch 687 | LR: 5e-05 #############
+epoch 687's auc score: 0.4077 | best auc score: 0.5902
+############# Starting Epoch 688 | LR: 5e-05 #############
+epoch 688's auc score: 0.4635 | best auc score: 0.5902
+############# Starting Epoch 689 | LR: 5e-05 #############
+epoch 689's auc score: 0.3218 | best auc score: 0.5902
+############# Starting Epoch 690 | LR: 5e-05 #############
+epoch 690's auc score: 0.3004 | best auc score: 0.5902
+############# Starting Epoch 691 | LR: 5e-05 #############
+epoch 691's auc score: 0.3560 | best auc score: 0.5902
+############# Starting Epoch 692 | LR: 5e-05 #############
+epoch 692's auc score: 0.3445 | best auc score: 0.5902
+############# Starting Epoch 693 | LR: 5e-05 #############
+epoch 693's auc score: 0.3203 | best auc score: 0.5902
+############# Starting Epoch 694 | LR: 5e-05 #############
+epoch 694's auc score: 0.3974 | best auc score: 0.5902
+############# Starting Epoch 695 | LR: 5e-05 #############
+epoch 695's auc score: 0.3009 | best auc score: 0.5902
+############# Starting Epoch 696 | LR: 5e-05 #############
+epoch 696's auc score: 0.4679 | best auc score: 0.5902
+############# Starting Epoch 697 | LR: 5e-05 #############
+epoch 697's auc score: 0.5310 | best auc score: 0.5902
+############# Starting Epoch 698 | LR: 5e-05 #############
+epoch 698's auc score: 0.5655 | best auc score: 0.5902
+############# Starting Epoch 699 | LR: 5e-05 #############
+epoch 699's auc score: 0.3604 | best auc score: 0.5902
+############# Starting Epoch 700 | LR: 5e-05 #############
+epoch 700's auc score: 0.4349 | best auc score: 0.5902
+############# Starting Epoch 701 | LR: 5e-05 #############
+epoch 701's auc score: 0.4477 | best auc score: 0.5902
+############# Starting Epoch 702 | LR: 5e-05 #############
+epoch 702's auc score: 0.5359 | best auc score: 0.5902
+############# Starting Epoch 703 | LR: 5e-05 #############
+epoch 703's auc score: 0.4742 | best auc score: 0.5902
+############# Starting Epoch 704 | LR: 5e-05 #############
+epoch 704's auc score: 0.5250 | best auc score: 0.5902
+############# Starting Epoch 705 | LR: 5e-05 #############
+epoch 705's auc score: 0.3666 | best auc score: 0.5902
+############# Starting Epoch 706 | LR: 5e-05 #############
+epoch 706's auc score: 0.3342 | best auc score: 0.5902
+############# Starting Epoch 707 | LR: 5e-05 #############
+epoch 707's auc score: 0.3870 | best auc score: 0.5902
+############# Starting Epoch 708 | LR: 5e-05 #############
+epoch 708's auc score: 0.4898 | best auc score: 0.5902
+############# Starting Epoch 709 | LR: 5e-05 #############
+epoch 709's auc score: 0.4961 | best auc score: 0.5902
+############# Starting Epoch 710 | LR: 5e-05 #############
+epoch 710's auc score: 0.4754 | best auc score: 0.5902
+############# Starting Epoch 711 | LR: 5e-05 #############
+epoch 711's auc score: 0.4842 | best auc score: 0.5902
+############# Starting Epoch 712 | LR: 5e-05 #############
+epoch 712's auc score: 0.4080 | best auc score: 0.5902
+############# Starting Epoch 713 | LR: 5e-05 #############
+epoch 713's auc score: 0.3686 | best auc score: 0.5902
+############# Starting Epoch 714 | LR: 5e-05 #############
+epoch 714's auc score: 0.3077 | best auc score: 0.5902
+############# Starting Epoch 715 | LR: 5e-05 #############
+epoch 715's auc score: 0.3311 | best auc score: 0.5902
+############# Starting Epoch 716 | LR: 5e-05 #############
+epoch 716's auc score: 0.3307 | best auc score: 0.5902
+############# Starting Epoch 717 | LR: 5e-05 #############
+epoch 717's auc score: 0.2779 | best auc score: 0.5902
+############# Starting Epoch 718 | LR: 5e-05 #############
+epoch 718's auc score: 0.2474 | best auc score: 0.5902
+############# Starting Epoch 719 | LR: 5e-05 #############
+epoch 719's auc score: 0.2816 | best auc score: 0.5902
+############# Starting Epoch 720 | LR: 5e-05 #############
+epoch 720's auc score: 0.2701 | best auc score: 0.5902
+############# Starting Epoch 721 | LR: 5e-05 #############
+epoch 721's auc score: 0.2781 | best auc score: 0.5902
+############# Starting Epoch 722 | LR: 5e-05 #############
+epoch 722's auc score: 0.2884 | best auc score: 0.5902
+############# Starting Epoch 723 | LR: 5e-05 #############
+epoch 723's auc score: 0.2680 | best auc score: 0.5902
+############# Starting Epoch 724 | LR: 5e-05 #############
+epoch 724's auc score: 0.2648 | best auc score: 0.5902
+############# Starting Epoch 725 | LR: 5e-05 #############
+epoch 725's auc score: 0.2945 | best auc score: 0.5902
+############# Starting Epoch 726 | LR: 5e-05 #############
+epoch 726's auc score: 0.2801 | best auc score: 0.5902
+############# Starting Epoch 727 | LR: 5e-05 #############
+epoch 727's auc score: 0.3532 | best auc score: 0.5902
+############# Starting Epoch 728 | LR: 5e-05 #############
+epoch 728's auc score: 0.5620 | best auc score: 0.5902
+############# Starting Epoch 729 | LR: 5e-05 #############
+epoch 729's auc score: 0.3670 | best auc score: 0.5902
+############# Starting Epoch 730 | LR: 5e-05 #############
+epoch 730's auc score: 0.3006 | best auc score: 0.5902
+############# Starting Epoch 731 | LR: 5e-05 #############
+epoch 731's auc score: 0.2820 | best auc score: 0.5902
+############# Starting Epoch 732 | LR: 5e-05 #############
+epoch 732's auc score: 0.2729 | best auc score: 0.5902
+############# Starting Epoch 733 | LR: 5e-05 #############
+epoch 733's auc score: 0.5321 | best auc score: 0.5902
+############# Starting Epoch 734 | LR: 5e-05 #############
+epoch 734's auc score: 0.4432 | best auc score: 0.5902
+############# Starting Epoch 735 | LR: 5e-05 #############
+epoch 735's auc score: 0.5510 | best auc score: 0.5902
+############# Starting Epoch 736 | LR: 5e-05 #############
+epoch 736's auc score: 0.3236 | best auc score: 0.5902
+############# Starting Epoch 737 | LR: 5e-05 #############
+epoch 737's auc score: 0.2733 | best auc score: 0.5902
+############# Starting Epoch 738 | LR: 5e-05 #############
+epoch 738's auc score: 0.2709 | best auc score: 0.5902
+############# Starting Epoch 739 | LR: 5e-05 #############
+epoch 739's auc score: 0.2711 | best auc score: 0.5902
+############# Starting Epoch 740 | LR: 5e-05 #############
+epoch 740's auc score: 0.3299 | best auc score: 0.5902
+############# Starting Epoch 741 | LR: 5e-05 #############
+epoch 741's auc score: 0.3274 | best auc score: 0.5902
+############# Starting Epoch 742 | LR: 5e-05 #############
+epoch 742's auc score: 0.3283 | best auc score: 0.5902
+############# Starting Epoch 743 | LR: 5e-05 #############
+epoch 743's auc score: 0.2960 | best auc score: 0.5902
+############# Starting Epoch 744 | LR: 5e-05 #############
+epoch 744's auc score: 0.2835 | best auc score: 0.5902
+############# Starting Epoch 745 | LR: 5e-05 #############
+epoch 745's auc score: 0.2887 | best auc score: 0.5902
+############# Starting Epoch 746 | LR: 5e-05 #############
+epoch 746's auc score: 0.2866 | best auc score: 0.5902
+############# Starting Epoch 747 | LR: 5e-05 #############
+epoch 747's auc score: 0.3875 | best auc score: 0.5902
+############# Starting Epoch 748 | LR: 5e-05 #############
+epoch 748's auc score: 0.4063 | best auc score: 0.5902
+############# Starting Epoch 749 | LR: 5e-05 #############
+epoch 749's auc score: 0.3000 | best auc score: 0.5902
+############# Starting Epoch 750 | LR: 5e-05 #############
+epoch 750's auc score: 0.2771 | best auc score: 0.5902
+############# Starting Epoch 751 | LR: 5e-05 #############
+epoch 751's auc score: 0.2996 | best auc score: 0.5902
+############# Starting Epoch 752 | LR: 5e-05 #############
+epoch 752's auc score: 0.3245 | best auc score: 0.5902
+############# Starting Epoch 753 | LR: 5e-05 #############
+epoch 753's auc score: 0.3413 | best auc score: 0.5902
+############# Starting Epoch 754 | LR: 5e-05 #############
+epoch 754's auc score: 0.3594 | best auc score: 0.5902
+############# Starting Epoch 755 | LR: 5e-05 #############
+epoch 755's auc score: 0.3572 | best auc score: 0.5902
+############# Starting Epoch 756 | LR: 5e-05 #############
+epoch 756's auc score: 0.3329 | best auc score: 0.5902
+############# Starting Epoch 757 | LR: 5e-05 #############
+epoch 757's auc score: 0.2901 | best auc score: 0.5902
+############# Starting Epoch 758 | LR: 5e-05 #############
+epoch 758's auc score: 0.3839 | best auc score: 0.5902
+############# Starting Epoch 759 | LR: 5e-05 #############
+epoch 759's auc score: 0.3222 | best auc score: 0.5902
+############# Starting Epoch 760 | LR: 5e-05 #############
+epoch 760's auc score: 0.3503 | best auc score: 0.5902
+############# Starting Epoch 761 | LR: 5e-05 #############
+epoch 761's auc score: 0.2973 | best auc score: 0.5902
+############# Starting Epoch 762 | LR: 5e-05 #############
+epoch 762's auc score: 0.2749 | best auc score: 0.5902
+############# Starting Epoch 763 | LR: 5e-05 #############
+epoch 763's auc score: 0.2791 | best auc score: 0.5902
+############# Starting Epoch 764 | LR: 5e-05 #############
+epoch 764's auc score: 0.3051 | best auc score: 0.5902
+############# Starting Epoch 765 | LR: 5e-05 #############
+epoch 765's auc score: 0.3479 | best auc score: 0.5902
+############# Starting Epoch 766 | LR: 5e-05 #############
+epoch 766's auc score: 0.3511 | best auc score: 0.5902
+############# Starting Epoch 767 | LR: 5e-05 #############
+epoch 767's auc score: 0.3040 | best auc score: 0.5902
+############# Starting Epoch 768 | LR: 5e-05 #############
+epoch 768's auc score: 0.3631 | best auc score: 0.5902
+############# Starting Epoch 769 | LR: 5e-05 #############
+epoch 769's auc score: 0.3828 | best auc score: 0.5902
+############# Starting Epoch 770 | LR: 5e-05 #############
+epoch 770's auc score: 0.4214 | best auc score: 0.5902
+############# Starting Epoch 771 | LR: 5e-05 #############
+epoch 771's auc score: 0.3081 | best auc score: 0.5902
+############# Starting Epoch 772 | LR: 5e-05 #############
+epoch 772's auc score: 0.2893 | best auc score: 0.5902
+############# Starting Epoch 773 | LR: 5e-05 #############
+epoch 773's auc score: 0.2944 | best auc score: 0.5902
+############# Starting Epoch 774 | LR: 5e-05 #############
+epoch 774's auc score: 0.2979 | best auc score: 0.5902
+############# Starting Epoch 775 | LR: 5e-05 #############
+epoch 775's auc score: 0.3140 | best auc score: 0.5902
+############# Starting Epoch 776 | LR: 5e-05 #############
+epoch 776's auc score: 0.2967 | best auc score: 0.5902
+############# Starting Epoch 777 | LR: 5e-05 #############
+epoch 777's auc score: 0.3026 | best auc score: 0.5902
+############# Starting Epoch 778 | LR: 5e-05 #############
+epoch 778's auc score: 0.2976 | best auc score: 0.5902
+############# Starting Epoch 779 | LR: 5e-05 #############
+epoch 779's auc score: 0.2872 | best auc score: 0.5902
+############# Starting Epoch 780 | LR: 5e-05 #############
+epoch 780's auc score: 0.3405 | best auc score: 0.5902
+############# Starting Epoch 781 | LR: 5e-05 #############
+epoch 781's auc score: 0.4243 | best auc score: 0.5902
+############# Starting Epoch 782 | LR: 5e-05 #############
+epoch 782's auc score: 0.3552 | best auc score: 0.5902
+############# Starting Epoch 783 | LR: 5e-05 #############
+epoch 783's auc score: 0.3312 | best auc score: 0.5902
+############# Starting Epoch 784 | LR: 5e-05 #############
+epoch 784's auc score: 0.3732 | best auc score: 0.5902
+############# Starting Epoch 785 | LR: 5e-05 #############
+epoch 785's auc score: 0.4042 | best auc score: 0.5902
+############# Starting Epoch 786 | LR: 5e-05 #############
+epoch 786's auc score: 0.3124 | best auc score: 0.5902
+############# Starting Epoch 787 | LR: 5e-05 #############
+epoch 787's auc score: 0.2765 | best auc score: 0.5902
+############# Starting Epoch 788 | LR: 5e-05 #############
+epoch 788's auc score: 0.3239 | best auc score: 0.5902
+############# Starting Epoch 789 | LR: 5e-05 #############
+epoch 789's auc score: 0.4225 | best auc score: 0.5902
+############# Starting Epoch 790 | LR: 5e-05 #############
+epoch 790's auc score: 0.3495 | best auc score: 0.5902
+############# Starting Epoch 791 | LR: 5e-05 #############
+epoch 791's auc score: 0.2909 | best auc score: 0.5902
+############# Starting Epoch 792 | LR: 5e-05 #############
+epoch 792's auc score: 0.2444 | best auc score: 0.5902
+############# Starting Epoch 793 | LR: 5e-05 #############
+epoch 793's auc score: 0.3045 | best auc score: 0.5902
+############# Starting Epoch 794 | LR: 5e-05 #############
+epoch 794's auc score: 0.3235 | best auc score: 0.5902
+############# Starting Epoch 795 | LR: 5e-05 #############
+epoch 795's auc score: 0.2872 | best auc score: 0.5902
+############# Starting Epoch 796 | LR: 5e-05 #############
+epoch 796's auc score: 0.3960 | best auc score: 0.5902
+############# Starting Epoch 797 | LR: 5e-05 #############
+epoch 797's auc score: 0.4410 | best auc score: 0.5902
+############# Starting Epoch 798 | LR: 5e-05 #############
+epoch 798's auc score: 0.5148 | best auc score: 0.5902
+############# Starting Epoch 799 | LR: 5e-05 #############
